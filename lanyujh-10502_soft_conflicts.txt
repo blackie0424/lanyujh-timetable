@@ -1,0 +1,9 @@
+﻿Soft conflicts of lanyujh-10502.fet
+Generated with FET 5.30.3 on 2016/12/16 下午9:14
+
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
