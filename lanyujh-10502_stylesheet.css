@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
 /* CSS Stylesheet of lanyujh-10502.fet
-   Stylesheet generated with FET 5.30.3 on 2016/12/17 上午11:27 */
+   Stylesheet generated with FET 5.30.3 on 2017/1/14 下午5:13 */
 
 /* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
 /* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
@@ -153,7 +153,7 @@ span.s_20 { /* subject 美術 */
 
 }
 
-span.s_21 { /* subject 選修遊程規劃或選修飲食文化 */
+span.s_21 { /* subject 中五中六選修 */
 
 }
 
@@ -393,19 +393,19 @@ span.t_25 { /* teacher 曾志全 */
 
 }
 
-span.t_26 { /* teacher 柯伊綺 */
+span.t_26 { /* teacher 黃承翰 */
 
 }
 
-span.t_27 { /* teacher 黃承翰 */
+span.t_27 { /* teacher 賴仲軒 */
 
 }
 
-span.t_28 { /* teacher 賴仲軒 */
+span.t_28 { /* teacher 黃森簇 */
 
 }
 
-span.t_29 { /* teacher 黃森簇 */
+span.t_29 { /* teacher 柯伊綺 */
 
 }
 
@@ -642,7 +642,7 @@ td.s_20 { /* subject 美術 */
 
 }
 
-td.s_21 { /* subject 選修遊程規劃或選修飲食文化 */
+td.s_21 { /* subject 中五中六選修 */
 
 }
 
@@ -882,19 +882,19 @@ td.t_25 { /* teacher 曾志全 */
 
 }
 
-td.t_26 { /* teacher 柯伊綺 */
+td.t_26 { /* teacher 黃承翰 */
 
 }
 
-td.t_27 { /* teacher 黃承翰 */
+td.t_27 { /* teacher 賴仲軒 */
 
 }
 
-td.t_28 { /* teacher 賴仲軒 */
+td.t_28 { /* teacher 黃森簇 */
 
 }
 
-td.t_29 { /* teacher 黃森簇 */
+td.t_29 { /* teacher 柯伊綺 */
 
 }
 
