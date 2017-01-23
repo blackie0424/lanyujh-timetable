@@ -404,8 +404,8 @@
 </Activity>
 <Activity>
 	<Id>147</Id>
-	<Day>Friday</Day>
-	<Hour>15:10-16:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>09:10-10:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
@@ -422,8 +422,8 @@
 </Activity>
 <Activity>
 	<Id>150</Id>
-	<Day>Thursday</Day>
-	<Hour>09:10-10:00</Hour>
+	<Day>Friday</Day>
+	<Hour>15:10-16:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
@@ -548,13 +548,13 @@
 </Activity>
 <Activity>
 	<Id>213</Id>
-	<Day>Thursday</Day>
+	<Day>Wednesday</Day>
 	<Hour>10:20-11:05</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>214</Id>
-	<Day>Wednesday</Day>
+	<Day>Thursday</Day>
 	<Hour>10:20-11:05</Hour>
 	<Room>三乙</Room>
 </Activity>
