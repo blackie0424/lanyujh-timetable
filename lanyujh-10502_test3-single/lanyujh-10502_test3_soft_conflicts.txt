@@ -1,0 +1,10 @@
+﻿Soft conflicts of lanyujh-10502_test3.fet
+Generated with FET 5.30.8 on 2017/1/23 下午9:49
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
