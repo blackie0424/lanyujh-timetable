@@ -1,0 +1,215 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-Hant" xml:lang="zh-Hant">
+  <head>
+    <title>課表</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" media="all" href="lanyujh-10502_test1_stylesheet.css" type="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <script type="text/javascript">
+      function highlight(classval) {
+        var spans = document.getElementsByTagName('span');
+        for(var i=0; spans.length>i; i++) {
+          if (spans[i].className == classval) {
+            spans[i].style.backgroundColor = 'lime';
+          } else {
+            spans[i].style.backgroundColor = 'white';
+          }
+        }
+      }
+    </script>
+  </head>
+
+  <body id="top">
+    <table id="table" border="1">
+      <caption>課表</caption>
+      <thead>
+        <tr><td colspan="2"></td></tr>
+      </thead>
+      <tbody>
+        <tr>
+        <th rowspan="9">M<br />o<br />n<br />d<br />a<br />y<br /></th>
+          <th class="yAxis">08:10-09:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">09:10-10:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">10:20-11:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">11:15-12:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">12:35-13:10</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">13:20-14:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">14:15-15:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">15:10-16:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">16:10-17:00</th>
+        </tr>
+        <tr>
+        <th rowspan="9">T<br />u<br />e<br />s<br />d<br />a<br />y<br /></th>
+          <th class="yAxis">08:10-09:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">09:10-10:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">10:20-11:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">11:15-12:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">12:35-13:10</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">13:20-14:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">14:15-15:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">15:10-16:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">16:10-17:00</th>
+        </tr>
+        <tr>
+        <th rowspan="9">W<br />e<br />d<br />n<br />e<br />s<br />d<br />a<br />y<br /></th>
+          <th class="yAxis">08:10-09:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">09:10-10:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">10:20-11:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">11:15-12:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">12:35-13:10</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">13:20-14:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">14:15-15:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">15:10-16:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">16:10-17:00</th>
+        </tr>
+        <tr>
+        <th rowspan="9">T<br />h<br />u<br />r<br />s<br />d<br />a<br />y<br /></th>
+          <th class="yAxis">08:10-09:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">09:10-10:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">10:20-11:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">11:15-12:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">12:35-13:10</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">13:20-14:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">14:15-15:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">15:10-16:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">16:10-17:00</th>
+        </tr>
+        <tr>
+        <th rowspan="9">F<br />r<br />i<br />d<br />a<br />y<br /></th>
+          <th class="yAxis">08:10-09:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">09:10-10:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">10:20-11:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">11:15-12:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">12:35-13:10</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">13:20-14:05</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">14:15-15:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">15:10-16:00</th>
+        </tr>
+        <tr>
+          <!-- span -->
+          <th class="yAxis">16:10-17:00</th>
+        </tr>
+        <tr class="foot"><td colspan="2"></td><td colspan="0">Timetable generated with FET 5.30.8 on 2017/1/23 下午5:28</td></tr>
+      </tbody>
+    </table>
+  </body>
+</html>
