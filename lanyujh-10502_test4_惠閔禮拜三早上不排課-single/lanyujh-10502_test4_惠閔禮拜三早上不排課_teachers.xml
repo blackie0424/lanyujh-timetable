@@ -1,0 +1,4266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="陳冠宇">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="數學"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="吳崇岳">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="數學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="資訊"></Subject><Students name="一乙"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="數學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="資訊"></Subject><Students name="一甲"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="電腦應用"></Subject><Students name="中五"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="電腦應用"></Subject><Students name="中五"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="數學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="張慶麟">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="閱讀"></Subject><Students name="一乙"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="閱讀"></Subject><Students name="一甲"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="許書齊">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="應用文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="曾如">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="李孟珊">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="英語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="計算機概論"></Subject><Students name="中四"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="計算機概論"></Subject><Students name="中四"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="綜合"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="英語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="江彩怡">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="李宜芳">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="閱讀"></Subject><Students name="三甲"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="閱讀"></Subject><Students name="二甲"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="閱讀"></Subject><Students name="二乙"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="閱讀"></Subject><Students name="三乙"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="張庭寧">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="英語"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="英語"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="劉銘婠">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="公民"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="歷史"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="公民"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="公民"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="歷史"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="歷史"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="歷史"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="歷史"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="歷史"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="公民"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="公民"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="公民"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="公民"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="公民"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="鍾楚紅">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="地理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="地理"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="地理"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="地理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="地理"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="地理"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="地理"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="雅美文化"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="雅美文化"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="地理"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳淑貞">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="蘭嶼自然生態"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="蘭嶼自然生態"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="林牧音">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="健康教育"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="健康教育"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳俊延">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="健康教育"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="健康教育"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="化學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="健康教育"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="體育"></Subject><Students name="三甲"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="體育"></Subject><Students name="三乙"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="化學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="體育"></Subject><Students name="三甲"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="健康教育"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="體育"></Subject><Students name="三乙"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳惠玲">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="體育"></Subject><Students name="二乙"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="體育"></Subject><Students name="中六"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="體育"></Subject><Students name="二甲"></Students><Room name="室外體育場"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="體育"></Subject><Students name="一乙"></Students><Room name="室外體育場"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="體育"></Subject><Students name="二甲"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="體育"></Subject><Students name="一甲"></Students><Room name="室外體育場"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="體育"></Subject><Students name="一乙"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="體育"></Subject><Students name="二乙"></Students><Room name="室外體育場"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="體育"></Subject><Students name="一甲"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="體育"></Subject><Students name="中六"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="張浩堂">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="美術"></Subject><Students name="中四"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="美術"></Subject><Students name="中四"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="謝耀霆">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="體育"></Subject><Students name="中四"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="體育"></Subject><Students name="中五"></Students><Room name="室內體育場"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="家政"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="家政"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="體育"></Subject><Students name="中五"></Students><Room name="室外體育場"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="體育"></Subject><Students name="中四"></Students><Room name="室外體育場"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="羅美雪">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="綜合"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="綜合"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="綜合"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="綜合"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="綜合"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="綜合"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="綜合"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="綜合"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="綜合"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="綜合"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="綜合"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="綜合"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="綜合"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="綜合"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="綜合"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="綜合"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="綜合"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="綜合"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="綜合"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳彭建中">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="餐旅概論"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="餐旅概論"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="中五中六選修"></Subject><Students name="中五"></Students><Students name="中六"></Students>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="楊惠閔">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="國際禮儀"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="蔬果切雕"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="蘇打房概論"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="蘇打房概論"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="中餐烹飪"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="中餐烹飪"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="中餐烹飪"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="中餐烹飪"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="林桓妃">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="餐旅服務"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="餐旅服務"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="校內餐旅實習"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="吳巧茹">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="護理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="林青良">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="國防"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="國防"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="董蘭英">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="雅美語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="雅美語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="雅美語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="雅美語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="雅美語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="雅美語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="曾志全">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="心理學"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="心理學"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="黃承翰">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗教室"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="賴仲軒">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="公民"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     <Subject name="閱讀"></Subject><Students name="一甲"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="綜合"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="綜合"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="歷史"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="地理"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="綜合"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="黃森簇">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="15:10-16:00">
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="柯伊綺">
+   <Day name="Monday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="健康教育"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:10-09:00">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:10-09:00">
+     <Subject name="英語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:20-11:05">
+     <Subject name="英語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+    </Hour>
+    <Hour name="11:15-12:00">
+     <Subject name="英語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="12:35-13:10">
+     
+    </Hour>
+    <Hour name="13:20-14:05">
+     <Subject name="英語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:15-15:00">
+     
+    </Hour>
+    <Hour name="15:10-16:00">
+     
+    </Hour>
+    <Hour name="16:10-17:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
