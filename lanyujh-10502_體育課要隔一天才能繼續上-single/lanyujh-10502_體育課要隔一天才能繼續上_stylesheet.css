@@ -1,0 +1,952 @@
+﻿@charset "UTF-8";
+
+/* CSS Stylesheet of lanyujh-10502_體育課要隔一天才能繼續上.fet
+   Stylesheet generated with FET 5.30.8 on 2017/2/8 下午11:08 */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display:none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject 國文 */
+
+}
+
+span.s_2 { /* subject 閱讀 */
+
+}
+
+span.s_3 { /* subject 英語 */
+
+}
+
+span.s_4 { /* subject 餐飲英語會話 */
+
+}
+
+span.s_5 { /* subject 綜合 */
+
+}
+
+span.s_6 { /* subject 數學 */
+
+}
+
+span.s_7 { /* subject 電腦應用 */
+
+}
+
+span.s_8 { /* subject 資訊 */
+
+}
+
+span.s_9 { /* subject 公民 */
+
+}
+
+span.s_10 { /* subject 歷史 */
+
+}
+
+span.s_11 { /* subject 地理 */
+
+}
+
+span.s_12 { /* subject 雅美文化 */
+
+}
+
+span.s_13 { /* subject 自然 */
+
+}
+
+span.s_14 { /* subject 蘭嶼自然生態 */
+
+}
+
+span.s_15 { /* subject 生物 */
+
+}
+
+span.s_16 { /* subject 健康教育 */
+
+}
+
+span.s_17 { /* subject 物理 */
+
+}
+
+span.s_18 { /* subject 體育 */
+
+}
+
+span.s_19 { /* subject 藝文 */
+
+}
+
+span.s_20 { /* subject 美術 */
+
+}
+
+span.s_21 { /* subject 中五中六選修 */
+
+}
+
+span.s_22 { /* subject 生活科技 */
+
+}
+
+span.s_23 { /* subject 餐旅概論 */
+
+}
+
+span.s_24 { /* subject 飲料與調酒 */
+
+}
+
+span.s_25 { /* subject 西餐 */
+
+}
+
+span.s_26 { /* subject 觀光概論 */
+
+}
+
+span.s_27 { /* subject 國際禮儀 */
+
+}
+
+span.s_28 { /* subject 中餐烹飪 */
+
+}
+
+span.s_29 { /* subject 蔬果切雕 */
+
+}
+
+span.s_30 { /* subject 烘焙 */
+
+}
+
+span.s_31 { /* subject 蘇打房概論 */
+
+}
+
+span.s_32 { /* subject 國三技藝班 */
+
+}
+
+span.s_33 { /* subject 專題製作 */
+
+}
+
+span.s_34 { /* subject 餐旅服務 */
+
+}
+
+span.s_35 { /* subject 點心製作 */
+
+}
+
+span.s_36 { /* subject 校內餐旅實習 */
+
+}
+
+span.s_37 { /* subject 護理 */
+
+}
+
+span.s_38 { /* subject 國防 */
+
+}
+
+span.s_39 { /* subject 雅美語 */
+
+}
+
+span.s_40 { /* subject 特需 */
+
+}
+
+span.s_41 { /* subject 應用文 */
+
+}
+
+span.s_42 { /* subject 自習 */
+
+}
+
+span.s_43 { /* subject 心理學 */
+
+}
+
+span.s_44 { /* subject 化學 */
+
+}
+
+span.s_45 { /* subject 家政 */
+
+}
+
+span.s_46 { /* subject 計算機概論 */
+
+}
+
+span.ss_1 { /* students set 一乙 */
+
+}
+
+span.ss_4 { /* students set 一甲 */
+
+}
+
+span.ss_7 { /* students set 二乙 */
+
+}
+
+span.ss_10 { /* students set 中六 */
+
+}
+
+span.ss_13 { /* students set 中五 */
+
+}
+
+span.ss_16 { /* students set 中四 */
+
+}
+
+span.ss_19 { /* students set 二甲 */
+
+}
+
+span.ss_22 { /* students set 三甲 */
+
+}
+
+span.ss_25 { /* students set 三乙 */
+
+}
+
+span.t_1 { /* teacher 陳冠宇 */
+
+}
+
+span.t_2 { /* teacher 吳崇岳 */
+
+}
+
+span.t_3 { /* teacher 張慶麟 */
+
+}
+
+span.t_4 { /* teacher 許書齊 */
+
+}
+
+span.t_5 { /* teacher 曾如 */
+
+}
+
+span.t_6 { /* teacher 李孟珊 */
+
+}
+
+span.t_7 { /* teacher 江彩怡 */
+
+}
+
+span.t_8 { /* teacher 李宜芳 */
+
+}
+
+span.t_9 { /* teacher 張庭寧 */
+
+}
+
+span.t_10 { /* teacher 劉銘婠 */
+
+}
+
+span.t_11 { /* teacher 鍾楚紅 */
+
+}
+
+span.t_12 { /* teacher 陳淑貞 */
+
+}
+
+span.t_13 { /* teacher 林牧音 */
+
+}
+
+span.t_14 { /* teacher 陳俊延 */
+
+}
+
+span.t_15 { /* teacher 陳惠玲 */
+
+}
+
+span.t_16 { /* teacher 張浩堂 */
+
+}
+
+span.t_17 { /* teacher 謝耀霆 */
+
+}
+
+span.t_18 { /* teacher 羅美雪 */
+
+}
+
+span.t_19 { /* teacher 陳彭建中 */
+
+}
+
+span.t_20 { /* teacher 楊惠閔 */
+
+}
+
+span.t_21 { /* teacher 林桓妃 */
+
+}
+
+span.t_22 { /* teacher 吳巧茹 */
+
+}
+
+span.t_23 { /* teacher 林青良 */
+
+}
+
+span.t_24 { /* teacher 董蘭英 */
+
+}
+
+span.t_25 { /* teacher 曾志全 */
+
+}
+
+span.t_26 { /* teacher 黃承翰 */
+
+}
+
+span.t_27 { /* teacher 賴仲軒 */
+
+}
+
+span.t_28 { /* teacher 黃森簇 */
+
+}
+
+span.t_29 { /* teacher 柯伊綺 */
+
+}
+
+span.r_1 { /* room 一甲 */
+
+}
+
+span.r_2 { /* room 一乙 */
+
+}
+
+span.r_3 { /* room 三甲 */
+
+}
+
+span.r_4 { /* room 三乙 */
+
+}
+
+span.r_5 { /* room 中四 */
+
+}
+
+span.r_6 { /* room 中五 */
+
+}
+
+span.r_7 { /* room 中六 */
+
+}
+
+span.r_8 { /* room 二甲 */
+
+}
+
+span.r_9 { /* room 二乙 */
+
+}
+
+span.r_10 { /* room 電腦教室 */
+
+}
+
+span.r_11 { /* room 自然實驗教室 */
+
+}
+
+span.r_12 { /* room 美術教室 */
+
+}
+
+span.r_13 { /* room 音樂教室 */
+
+}
+
+span.r_14 { /* room 圖書館 */
+
+}
+
+span.r_15 { /* room 原民中心 */
+
+}
+
+span.r_16 { /* room 室外體育場 */
+
+}
+
+span.r_17 { /* room 室內體育場 */
+
+}
+
+span.r_18 { /* room 中餐教室 */
+
+}
+
+span.r_19 { /* room 烘焙教室 */
+
+}
+
+span.r_20 { /* room 飲調教室 */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+
+/* Be careful. You might get mutual and ambiguous styles. CSS means that the last definition will be used. */
+
+td.s_1 { /* subject 國文 */
+
+}
+
+td.s_2 { /* subject 閱讀 */
+
+}
+
+td.s_3 { /* subject 英語 */
+
+}
+
+td.s_4 { /* subject 餐飲英語會話 */
+
+}
+
+td.s_5 { /* subject 綜合 */
+
+}
+
+td.s_6 { /* subject 數學 */
+
+}
+
+td.s_7 { /* subject 電腦應用 */
+
+}
+
+td.s_8 { /* subject 資訊 */
+
+}
+
+td.s_9 { /* subject 公民 */
+
+}
+
+td.s_10 { /* subject 歷史 */
+
+}
+
+td.s_11 { /* subject 地理 */
+
+}
+
+td.s_12 { /* subject 雅美文化 */
+
+}
+
+td.s_13 { /* subject 自然 */
+
+}
+
+td.s_14 { /* subject 蘭嶼自然生態 */
+
+}
+
+td.s_15 { /* subject 生物 */
+
+}
+
+td.s_16 { /* subject 健康教育 */
+
+}
+
+td.s_17 { /* subject 物理 */
+
+}
+
+td.s_18 { /* subject 體育 */
+
+}
+
+td.s_19 { /* subject 藝文 */
+
+}
+
+td.s_20 { /* subject 美術 */
+
+}
+
+td.s_21 { /* subject 中五中六選修 */
+
+}
+
+td.s_22 { /* subject 生活科技 */
+
+}
+
+td.s_23 { /* subject 餐旅概論 */
+
+}
+
+td.s_24 { /* subject 飲料與調酒 */
+
+}
+
+td.s_25 { /* subject 西餐 */
+
+}
+
+td.s_26 { /* subject 觀光概論 */
+
+}
+
+td.s_27 { /* subject 國際禮儀 */
+
+}
+
+td.s_28 { /* subject 中餐烹飪 */
+
+}
+
+td.s_29 { /* subject 蔬果切雕 */
+
+}
+
+td.s_30 { /* subject 烘焙 */
+
+}
+
+td.s_31 { /* subject 蘇打房概論 */
+
+}
+
+td.s_32 { /* subject 國三技藝班 */
+
+}
+
+td.s_33 { /* subject 專題製作 */
+
+}
+
+td.s_34 { /* subject 餐旅服務 */
+
+}
+
+td.s_35 { /* subject 點心製作 */
+
+}
+
+td.s_36 { /* subject 校內餐旅實習 */
+
+}
+
+td.s_37 { /* subject 護理 */
+
+}
+
+td.s_38 { /* subject 國防 */
+
+}
+
+td.s_39 { /* subject 雅美語 */
+
+}
+
+td.s_40 { /* subject 特需 */
+
+}
+
+td.s_41 { /* subject 應用文 */
+
+}
+
+td.s_42 { /* subject 自習 */
+
+}
+
+td.s_43 { /* subject 心理學 */
+
+}
+
+td.s_44 { /* subject 化學 */
+
+}
+
+td.s_45 { /* subject 家政 */
+
+}
+
+td.s_46 { /* subject 計算機概論 */
+
+}
+
+td.ss_1 { /* students set 一乙 */
+
+}
+
+td.ss_4 { /* students set 一甲 */
+
+}
+
+td.ss_7 { /* students set 二乙 */
+
+}
+
+td.ss_10 { /* students set 中六 */
+
+}
+
+td.ss_13 { /* students set 中五 */
+
+}
+
+td.ss_16 { /* students set 中四 */
+
+}
+
+td.ss_19 { /* students set 二甲 */
+
+}
+
+td.ss_22 { /* students set 三甲 */
+
+}
+
+td.ss_25 { /* students set 三乙 */
+
+}
+
+td.t_1 { /* teacher 陳冠宇 */
+
+}
+
+td.t_2 { /* teacher 吳崇岳 */
+
+}
+
+td.t_3 { /* teacher 張慶麟 */
+
+}
+
+td.t_4 { /* teacher 許書齊 */
+
+}
+
+td.t_5 { /* teacher 曾如 */
+
+}
+
+td.t_6 { /* teacher 李孟珊 */
+
+}
+
+td.t_7 { /* teacher 江彩怡 */
+
+}
+
+td.t_8 { /* teacher 李宜芳 */
+
+}
+
+td.t_9 { /* teacher 張庭寧 */
+
+}
+
+td.t_10 { /* teacher 劉銘婠 */
+
+}
+
+td.t_11 { /* teacher 鍾楚紅 */
+
+}
+
+td.t_12 { /* teacher 陳淑貞 */
+
+}
+
+td.t_13 { /* teacher 林牧音 */
+
+}
+
+td.t_14 { /* teacher 陳俊延 */
+
+}
+
+td.t_15 { /* teacher 陳惠玲 */
+
+}
+
+td.t_16 { /* teacher 張浩堂 */
+
+}
+
+td.t_17 { /* teacher 謝耀霆 */
+
+}
+
+td.t_18 { /* teacher 羅美雪 */
+
+}
+
+td.t_19 { /* teacher 陳彭建中 */
+
+}
+
+td.t_20 { /* teacher 楊惠閔 */
+
+}
+
+td.t_21 { /* teacher 林桓妃 */
+
+}
+
+td.t_22 { /* teacher 吳巧茹 */
+
+}
+
+td.t_23 { /* teacher 林青良 */
+
+}
+
+td.t_24 { /* teacher 董蘭英 */
+
+}
+
+td.t_25 { /* teacher 曾志全 */
+
+}
+
+td.t_26 { /* teacher 黃承翰 */
+
+}
+
+td.t_27 { /* teacher 賴仲軒 */
+
+}
+
+td.t_28 { /* teacher 黃森簇 */
+
+}
+
+td.t_29 { /* teacher 柯伊綺 */
+
+}
+
+/* Style the teachers free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */

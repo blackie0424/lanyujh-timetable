@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-Hant" xml:lang="zh-Hant">
+  <head>
+    <title>課表</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" media="all" href="lanyujh-10502_體育課要隔一天才能繼續上_stylesheet.css" type="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <script type="text/javascript">
+      function highlight(classval) {
+        var spans = document.getElementsByTagName('span');
+        for(var i=0; spans.length>i; i++) {
+          if (spans[i].className == classval) {
+            spans[i].style.backgroundColor = 'lime';
+          } else {
+            spans[i].style.backgroundColor = 'white';
+          }
+        }
+      }
+    </script>
+  </head>
+
+  <body id="top">
+    <table id="table" border="1">
+      <caption>課表</caption>
+      <thead>
+        <tr><td rowspan="2"></td><th colspan="9">Monday</th><th colspan="9">Tuesday</th><th colspan="9">Wednesday</th><th colspan="9">Thursday</th><th colspan="9">Friday</th></tr>
+        <tr>
+          <!-- span -->
+          <th class="xAxis">08:10-09:00</th>
+          <th class="xAxis">09:10-10:00</th>
+          <th class="xAxis">10:20-11:05</th>
+          <th class="xAxis">11:15-12:00</th>
+          <th class="xAxis">12:35-13:10</th>
+          <th class="xAxis">13:20-14:05</th>
+          <th class="xAxis">14:15-15:00</th>
+          <th class="xAxis">15:10-16:00</th>
+          <th class="xAxis">16:10-17:00</th>
+          <th class="xAxis">08:10-09:00</th>
+          <th class="xAxis">09:10-10:00</th>
+          <th class="xAxis">10:20-11:05</th>
+          <th class="xAxis">11:15-12:00</th>
+          <th class="xAxis">12:35-13:10</th>
+          <th class="xAxis">13:20-14:05</th>
+          <th class="xAxis">14:15-15:00</th>
+          <th class="xAxis">15:10-16:00</th>
+          <th class="xAxis">16:10-17:00</th>
+          <th class="xAxis">08:10-09:00</th>
+          <th class="xAxis">09:10-10:00</th>
+          <th class="xAxis">10:20-11:05</th>
+          <th class="xAxis">11:15-12:00</th>
+          <th class="xAxis">12:35-13:10</th>
+          <th class="xAxis">13:20-14:05</th>
+          <th class="xAxis">14:15-15:00</th>
+          <th class="xAxis">15:10-16:00</th>
+          <th class="xAxis">16:10-17:00</th>
+          <th class="xAxis">08:10-09:00</th>
+          <th class="xAxis">09:10-10:00</th>
+          <th class="xAxis">10:20-11:05</th>
+          <th class="xAxis">11:15-12:00</th>
+          <th class="xAxis">12:35-13:10</th>
+          <th class="xAxis">13:20-14:05</th>
+          <th class="xAxis">14:15-15:00</th>
+          <th class="xAxis">15:10-16:00</th>
+          <th class="xAxis">16:10-17:00</th>
+          <th class="xAxis">08:10-09:00</th>
+          <th class="xAxis">09:10-10:00</th>
+          <th class="xAxis">10:20-11:05</th>
+          <th class="xAxis">11:15-12:00</th>
+          <th class="xAxis">12:35-13:10</th>
+          <th class="xAxis">13:20-14:05</th>
+          <th class="xAxis">14:15-15:00</th>
+          <th class="xAxis">15:10-16:00</th>
+          <th class="xAxis">16:10-17:00</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="foot"><td></td><td colspan="45">Timetable generated with FET 5.30.8 on 2017/2/8 下午11:08</td></tr>
+      </tbody>
+    </table>
+  </body>
+</html>
