@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-Hant" xml:lang="zh-Hant">
+  <head>
+    <title>課表</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" media="all" href="lanyujh-10502_把閱讀課併入國文課計算_stylesheet.css" type="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <script type="text/javascript">
+      function highlight(classval) {
+        var spans = document.getElementsByTagName('span');
+        for(var i=0; spans.length>i; i++) {
+          if (spans[i].className == classval) {
+            spans[i].style.backgroundColor = 'lime';
+          } else {
+            spans[i].style.backgroundColor = 'white';
+          }
+        }
+      }
+    </script>
+  </head>
+
+  <body id="top">
+    <table>
+      <tr align="left" valign="top">
+        <th>學校機構名稱:</th>
+        <td>課表</td>
+      </tr>
+    </table>
+    <table>
+      <tr align="left" valign="top">
+        <th>注釋:</th>
+        <td>Default comments</td>
+      </tr>
+    </table>
+    <p>
+      This file doesn't list limits that are set by constraints. It contains statistics about the min and max values of the currently calculated solution.
+    </p>
+    <table border="1">
+      <caption>課表</caption>
+      <thead>
+        <tr><th>全部學生</th><th>Free days</th><th>Gaps</th><th>Gaps per day</th><th>Hours per day</th></tr>
+      </thead>
+      <tr><th>Sum</th><td>0</td><td>0</td><td>---</td><td>---</td></tr>
+      <tr><th>Average</th><td>0.00</td><td>0.00</td><td>---</td><td>---</td></tr>
+      <tr><th>Min</th><td>0</td><td>0</td><td>0</td><td>5</td></tr>
+      <tr><th>Max</th><td>0</td><td>0</td><td>0</td><td>7</td></tr>
+        <tr class="foot"><td></td><td colspan="4">Timetable generated with FET 5.30.8 on 2017/2/8 下午10:30</td></tr>
+    </table>
+    <p class="back0"><br /></p>
+
+    <table border="1">
+      <caption>課表</caption>
+      <thead>
+      <tr><th>入學年</th><th>Min free days</th><th>Max free days</th><th>Min hours per day</th><th>Max hours per day</th><th>Min gaps per week</th><th>Max gaps per week</th><th>Min gaps per day</th><th>Max gaps per day</th></tr>
+      </thead>
+      <tr><th>一乙</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>一甲</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>二乙</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>中六</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>中五</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>中四</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>二甲</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>三甲</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>三乙</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr class="foot"><td></td><td colspan="8">Timetable generated with FET 5.30.8 on 2017/2/8 下午10:30</td></tr>
+    </table>
+    <p class="back0"><br /></p>
+
+    <table border="1">
+      <caption>課表</caption>
+      <thead>
+      <tr><th>組</th><th>Min free days</th><th>Max free days</th><th>Min hours per day</th><th>Max hours per day</th><th>Min gaps per week</th><th>Max gaps per week</th><th>Min gaps per day</th><th>Max gaps per day</th></tr>
+      </thead>
+      <tr><th>一乙 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>一甲 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>二乙 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>中六 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>中五 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>中四 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>二甲 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>三甲 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><th>三乙 Automatic Group</th><td>0</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr class="foot"><td></td><td colspan="8">Timetable generated with FET 5.30.8 on 2017/2/8 下午10:30</td></tr>
+    </table>
+    <p class="back0"><br /></p>
+
+    <p></p>
+    <table border="1">
+      <caption>課表</caption>
+      <thead>
+      <tr><th>子組</th><th>Free days</th><th>Total gaps</th><th>Min gaps per day</th><th>Max gaps per day</th><th>Min hours per day</th><th>Max hours per day</th></tr>
+      </thead>
+      <tr><th>一乙 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>一甲 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>二乙 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>中六 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>中五 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>中四 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>二甲 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>三甲 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+      <tr><th>三乙 Automatic Group Automatic Subgroup</th><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+        <tr class="foot"><td></td><td colspan="6">Timetable generated with FET 5.30.8 on 2017/2/8 下午10:30</td></tr>
+    </table>
+  </body>
+</html>
