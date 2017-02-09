@@ -1,0 +1,10 @@
+﻿Soft conflicts of lanyujh-10502_套用公版去排.fet
+Generated with FET 5.30.8 on 2017/2/9 下午12:28
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
