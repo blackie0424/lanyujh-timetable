@@ -1,0 +1,19 @@
+﻿Conflicts of lanyujh-10502_套用公版去排.fet
+Warning! Only 227 out of 230 activities placed!
+Generated with FET 5.30.8 on 2017/2/10 上午12:53
+
+Number of broken constraints: 8
+Total conflicts: 60002
+
+Conflicts list (in decreasing order):
+
+時間節次限制的基本規則被打破，ID=373（老師:鍾楚紅,學科:地理,學生:中四）未分配教學活動 - 這項因素增加的總衝突數量: 10000
+時間節次限制的基本規則被打破，ID=430（老師:謝耀霆,學科:體育,學生:中五）未分配教學活動 - 這項因素增加的總衝突數量: 10000
+時間節次限制的基本規則被打破，ID=473（老師:林桓妃,學科:專題製作,學生:中六）未分配教學活動 - 這項因素增加的總衝突數量: 10000
+空間限制的教學活動有首選教室打破了規則，ID=373（老師:鍾楚紅,學科:地理,學生:中四） - 這項因素增加的總衝突數量: 10000
+空間限制的教學活動有首選教室打破了規則，ID=430（老師:謝耀霆,學科:體育,學生:中五） - 這項因素增加的總衝突數量: 10000
+空間限制的教學活動有首選教室打破了規則，ID=473（老師:林桓妃,學科:專題製作,學生:中六） - 這項因素增加的總衝突數量: 10000
+教師的每週最大課間休息時隙的課表時間節次約束條件被教師：鍾楚紅所打破，在星期: Monday，衝突增加=1
+Time constraint teacher min 4 days per week broken for teacher 林桓妃. This increases the conflicts total by 1
+
+End of file.
