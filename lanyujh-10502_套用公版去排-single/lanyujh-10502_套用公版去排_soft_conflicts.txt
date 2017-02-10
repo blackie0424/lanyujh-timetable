@@ -1,10 +1,13 @@
-﻿Soft conflicts of lanyujh-10502_套用公版去排.fet
-Generated with FET 5.30.8 on 2017/2/10 上午1:04
+﻿Conflicts of lanyujh-10502_套用公版去排.fet
+Warning! Only 229 out of 230 activities placed!
+Generated with FET 5.30.8 on 2017/2/11 上午4:05
 
-Number of broken soft constraints: 0
-Total soft conflicts: 0
+Number of broken constraints: 2
+Total conflicts: 20000
 
-Soft conflicts list (in decreasing order):
+Conflicts list (in decreasing order):
 
+時間節次限制的基本規則被打破，ID=424（老師:陳俊延,學科:體育,學生:三乙）未分配教學活動 - 這項因素增加的總衝突數量: 10000
+空間限制的教學活動有首選教室打破了規則，ID=424（老師:陳俊延,學科:體育,學生:三乙） - 這項因素增加的總衝突數量: 10000
 
 End of file.
