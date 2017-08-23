@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>1</Id>
+	<Day>Tuesday</Day>
+	<Hour>16:10</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>2</Id>
+	<Day>Wednesday</Day>
+	<Hour>08:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3</Id>
+	<Day>Friday</Day>
+	<Hour>16:10</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4</Id>
+	<Day>Monday</Day>
+	<Hour>09:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5</Id>
+	<Day>Thursday</Day>
+	<Hour>13:10</Hour>
+	<Room></Room>
+</Activity>
+</Activities_Timetable>

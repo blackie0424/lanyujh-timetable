@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.32.3">
+
+<Institution_Name>蘭嶼高中</Institution_Name>
+
+<Comments>臺東縣立蘭嶼高級中學，簡稱蘭嶼高中，是臺灣一所公立完全中學，位於臺東縣蘭嶼鄉椰油村，校址緊鄰饅頭岩，為臺東縣轄內唯一在離島設立的中等學校。</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+</Day>
+<Day>
+	<Name>Friday</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>10</Number_of_Hours>
+<Hour>
+	<Name>08:00</Name>
+</Hour>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:10</Name>
+</Hour>
+<Hour>
+	<Name>14:10</Name>
+</Hour>
+<Hour>
+	<Name>15:10</Name>
+</Hour>
+<Hour>
+	<Name>16:10</Name>
+</Hour>
+<Hour>
+	<Name>17:00</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>國文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>英文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>數學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>自然</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>吳崇岳</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>數學</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>陳冠宇</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>數學</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>一甲</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments>國中部一年級甲班</Comments>
+</Year>
+<Year>
+	<Name>一乙</Name>
+	<Number_of_Students>16</Number_of_Students>
+	<Comments>國中部一年級乙班</Comments>
+</Year>
+<Year>
+	<Name>二甲</Name>
+	<Number_of_Students>18</Number_of_Students>
+	<Comments>國中部二年級甲班</Comments>
+</Year>
+<Year>
+	<Name>二乙</Name>
+	<Number_of_Students>17</Number_of_Students>
+	<Comments>國中部二年級乙班</Comments>
+</Year>
+<Year>
+	<Name>三甲</Name>
+	<Number_of_Students>17</Number_of_Students>
+	<Comments>國中部三年級甲班</Comments>
+</Year>
+<Year>
+	<Name>三乙</Name>
+	<Number_of_Students>16</Number_of_Students>
+	<Comments>國中部三年級乙班</Comments>
+</Year>
+<Year>
+	<Name>中四</Name>
+	<Number_of_Students>18</Number_of_Students>
+	<Comments>高中部一年級</Comments>
+</Year>
+<Year>
+	<Name>中五</Name>
+	<Number_of_Students>13</Number_of_Students>
+	<Comments>高中部二年級</Comments>
+</Year>
+<Year>
+	<Name>中六</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments>高中部三年級</Comments>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Duration>1</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Duration>1</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Duration>1</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Duration>1</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>教學大樓</Name>
+	<Comments></Comments>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>一甲</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>一乙</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>二甲</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>二乙</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>三甲</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>三乙</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中四</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中五</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中六</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>5</Number_of_Activities>
+	<Activity_Id>1</Activity_Id>
+	<Activity_Id>2</Activity_Id>
+	<Activity_Id>3</Activity_Id>
+	<Activity_Id>4</Activity_Id>
+	<Activity_Id>5</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>16:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>16:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+</Space_Constraints_List>
+
+</fet>
