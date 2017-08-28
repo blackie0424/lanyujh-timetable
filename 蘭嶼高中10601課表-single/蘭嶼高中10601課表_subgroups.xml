@@ -3,25 +3,25 @@
   <Subgroup name="中四 Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="08:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="生物"></Subject><Room name="中四"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="美術"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="物理"></Subject><Room name="中四"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="美術"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="雅美文化"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="雅美文化"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="謝銘昇"></Teacher><Subject name="國防"></Subject><Room name="中四"></Room>
+      <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中四"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="物理"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -29,28 +29,28 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
-    </Hour>
-    <Hour name="09:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
-    </Hour>
-    <Hour name="10:00">
       <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中四"></Room>
     </Hour>
+    <Hour name="09:00">
+      <Teacher name="吳巧茹"></Teacher><Subject name="護理"></Subject><Room name="中四"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="余錦梅"></Teacher><Subject name="物理"></Subject><Room name="中四"></Room>
+    </Hour>
     <Hour name="11:00">
-      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="吳巧茹"></Teacher><Subject name="護理"></Subject><Room name="中四"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="林桓妃"></Teacher><Subject name="國際禮儀"></Subject><Room name="餐服教室"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="中四"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -58,13 +58,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="中四"></Room>
+      <Teacher name="林桓妃"></Teacher><Subject name="職業試探"></Subject><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="美術"></Subject><Room name="中四"></Room>
+      <Teacher name="林桓妃"></Teacher><Subject name="職業試探"></Subject><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="美術"></Subject><Room name="中四"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -81,28 +81,28 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中四"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="物理"></Subject><Room name="中四"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="生物"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
+      <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="余錦梅"></Teacher><Subject name="生物"></Subject><Room name="中四"></Room>
+      <Teacher name="謝銘昇"></Teacher><Subject name="國防"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="林桓妃"></Teacher><Subject name="職業試探"></Subject><Room name="餐服教室"></Room>
+      <Teacher name="林桓妃"></Teacher><Subject name="國際禮儀"></Subject><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="林桓妃"></Teacher><Subject name="職業試探"></Subject><Room name="餐服教室"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -110,13 +110,13 @@
       <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="李孟珊"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="中四"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="雅美文化"></Subject><Room name="中四"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="生物"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="雅美文化"></Subject><Room name="中四"></Room>
+      <Teacher name="李孟珊"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -138,13 +138,13 @@
       <Teacher name="楊惠閔"></Teacher><Subject name="蔬果切雕"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="中五"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="楊惠閔"></Teacher><Subject name="餐旅服務"></Subject><Room name="餐服教室"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="楊惠閔"></Teacher><Subject name="餐旅服務"></Subject><Room name="餐服教室"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -179,10 +179,10 @@
       <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="中五"></Room>
+      <Teacher name="陳彭建中"></Teacher><Subject name="餐旅概論"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="謝銘昇"></Teacher><Subject name="國防"></Subject><Room name="中五"></Room>
+      <Teacher name="陳彭建中"></Teacher><Subject name="餐旅概論"></Subject><Room name="中五"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -190,13 +190,13 @@
      
     </Hour>
     <Hour name="09:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="中五"></Room>
+      <Teacher name="謝銘昇"></Teacher><Subject name="國防"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -213,28 +213,28 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
+      <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="陳彭建中"></Teacher><Subject name="餐旅概論"></Subject><Room name="中五"></Room>
+      <Teacher name="楊惠閔"></Teacher><Subject name="餐旅服務"></Subject><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="陳彭建中"></Teacher><Subject name="餐旅概論"></Subject><Room name="中五"></Room>
+      <Teacher name="楊惠閔"></Teacher><Subject name="餐旅服務"></Subject><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject><Room name="中五"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="吳崇岳"></Teacher><Subject name="電腦應用"></Subject><Room name="中五"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="14:10">
       <Teacher name="吳崇岳"></Teacher><Subject name="電腦應用"></Subject><Room name="中五"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="中五"></Room>
+      <Teacher name="吳崇岳"></Teacher><Subject name="電腦應用"></Subject><Room name="中五"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -276,7 +276,7 @@
       <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="中六"></Room>
+      <Teacher name="林桓妃"></Teacher><Subject name="餐旅實習"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -293,28 +293,28 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="蘭嶼自然生態"></Subject><Room name="中六"></Room>
+      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="鍾楚紅"></Teacher><Subject name="蘭嶼自然生態"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="陳彭建中"></Teacher><Subject name="專題製作"></Subject><Room name="中六"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="蘭嶼自然生態"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="陳彭建中"></Teacher><Subject name="專題製作"></Subject><Room name="中六"></Room>
+      <Teacher name="黃聖珆"></Teacher><Subject name="生命教育"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="中六"></Room>
-    </Hour>
-    <Hour name="14:10">
       <Teacher name="李孟珊"></Teacher><Subject name="英文"></Subject><Room name="中六"></Room>
     </Hour>
+    <Hour name="14:10">
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="中六"></Room>
+    </Hour>
     <Hour name="15:10">
-      <Teacher name="陳彭建中"></Teacher><Subject name="自習"></Subject><Room name="中六"></Room>
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="中六"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -360,13 +360,13 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="林桓妃"></Teacher><Subject name="餐旅實習"></Subject><Room name="中六"></Room>
-    </Hour>
-    <Hour name="14:10">
       <Teacher name="李孟珊"></Teacher><Subject name="英文"></Subject><Room name="中六"></Room>
     </Hour>
+    <Hour name="14:10">
+      <Teacher name="陳彭建中"></Teacher><Subject name="專題製作"></Subject><Room name="中六"></Room>
+    </Hour>
     <Hour name="15:10">
-      <Teacher name="黃聖珆"></Teacher><Subject name="生命教育"></Subject><Room name="中六"></Room>
+      <Teacher name="陳彭建中"></Teacher><Subject name="專題製作"></Subject><Room name="中六"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -386,13 +386,13 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="中六"></Room>
+      <Teacher name="李孟珊"></Teacher><Subject name="英文"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="14:10">
       <Teacher name="林俊毅"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="中六"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="李孟珊"></Teacher><Subject name="英文"></Subject><Room name="中六"></Room>
+      <Teacher name="陳彭建中"></Teacher><Subject name="自習"></Subject><Room name="中六"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -402,22 +402,22 @@
       <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="謝美娟"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="一甲"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一甲"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="一甲"></Room>
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
+      <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -425,42 +425,42 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
-    </Hour>
-    <Hour name="09:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="一甲"></Room>
-    </Hour>
-    <Hour name="10:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
-    </Hour>
-    <Hour name="11:00">
       <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
     </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-      <Teacher name="吳崇岳"></Teacher><Subject name="資訊"></Subject><Room name="一甲"></Room>
-    </Hour>
-    <Hour name="14:10">
-      <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="一甲"></Room>
-    </Hour>
-    <Hour name="15:10">
-      <Teacher name="謝美娟"></Teacher><Subject name="閱讀"></Subject><Room name="一甲"></Room>
-    </Hour>
-   </Day>
-   <Day name="Wednesday">
-    <Hour name="08:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
-    </Hour>
     <Hour name="09:00">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一甲"></Room>
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="謝美娟"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="一甲"></Room>
+      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+      <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="14:10">
+      <Teacher name="吳崇岳"></Teacher><Subject name="資訊"></Subject><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="15:10">
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -477,54 +477,54 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一甲"></Room>
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一甲"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="一甲"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一甲"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一甲"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="一甲"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一甲"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
+      <Teacher name="謝美娟"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="一甲"></Room>
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="一甲"></Room>
+      <Teacher name="謝美娟"></Teacher><Subject name="閱讀"></Subject><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一甲"></Room>
+      <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="一甲"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -534,10 +534,10 @@
       <Teacher name="謝美娟"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="一乙"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="11:00">
       <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一乙"></Room>
@@ -546,10 +546,10 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="一乙"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -557,25 +557,25 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="09:00">
-      <Teacher name="謝美娟"></Teacher><Subject name="閱讀"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="10:00">
       <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
     </Hour>
-    <Hour name="11:00">
+    <Hour name="09:00">
       <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
+      <Teacher name="吳崇岳"></Teacher><Subject name="資訊"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="吳崇岳"></Teacher><Subject name="資訊"></Subject><Room name="一乙"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="15:10">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="一乙"></Room>
@@ -583,16 +583,16 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一乙"></Room>
+      <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一乙"></Room>
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="一乙"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -609,39 +609,13 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="10:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="11:00">
       <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
     </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="14:10">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="15:10">
-      <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="一乙"></Room>
-    </Hour>
-   </Day>
-   <Day name="Friday">
-    <Hour name="08:00">
-      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
-    </Hour>
-    <Hour name="09:00">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一乙"></Room>
-    </Hour>
     <Hour name="10:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="11:00">
       <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="一乙"></Room>
@@ -650,13 +624,39 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="謝美娟"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="一乙"></Room>
+      <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="一乙"></Room>
     </Hour>
     <Hour name="15:10">
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+      <Teacher name="謝美娟"></Teacher><Subject name="閱讀"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="謝美娟"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="陳淑貞"></Teacher><Subject name="自然"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="14:10">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="15:10">
+      <Teacher name="林俊毅"></Teacher><Subject name="國文"></Subject><Room name="一乙"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -689,7 +689,7 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="三甲"></Room>
@@ -698,7 +698,7 @@
       <Teacher name="增置數學"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="三甲"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -710,7 +710,7 @@
       <Teacher name="江彩怡"></Teacher><Subject name="國文"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="三甲"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="三甲"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -724,7 +724,7 @@
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="三甲"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="地球科學"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -741,7 +741,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="三甲"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="曾如"></Teacher><Subject name="英文"></Subject><Room name="三甲"></Room>
@@ -750,7 +750,7 @@
       <Teacher name="曾如"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三甲"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -759,7 +759,7 @@
       <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="劉康文"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="三甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="15:10">
       <Teacher name="增置數學"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="三甲"></Room>
@@ -767,7 +767,7 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="地球科學"></Subject><Room name="三甲"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="三甲"></Room>
@@ -776,26 +776,26 @@
       <Teacher name="曾如"></Teacher><Subject name="英文"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="三甲"></Room>
+      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="江彩怡"></Teacher><Subject name="國文"></Subject><Room name="三甲"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三甲"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="三甲"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三甲"></Room>
+      <Teacher name="江彩怡"></Teacher><Subject name="國文"></Subject><Room name="三甲"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="三乙 Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="08:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三乙"></Room>
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="三乙"></Room>
@@ -804,13 +804,13 @@
       <Teacher name="李孟珊"></Teacher> <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="地球科學"></Subject><Room name="三乙"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
+      <Teacher name="曾如"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="14:10">
       <Teacher name="增置數學"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="三乙"></Room>
@@ -821,16 +821,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="三乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="三乙"></Room>
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -842,12 +842,12 @@
       <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三乙"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="地球科學"></Subject><Room name="三乙"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="三乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="李孟珊"></Teacher> <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="三乙"></Room>
@@ -873,33 +873,33 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="增置數學"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="三乙"></Room>
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="李孟珊"></Teacher> <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="三乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="三乙"></Room>
+      <Teacher name="增置數學"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
+      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三乙"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="三乙"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="三乙"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="三乙"></Room>
@@ -908,19 +908,19 @@
       <Teacher name="李孟珊"></Teacher> <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="劉康文"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="三乙"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="曾如"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="三乙"></Room>
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="三乙"></Room>
+      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="李宜芳"></Teacher><Subject name="國文"></Subject><Room name="三乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="三乙"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -930,7 +930,7 @@
       <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="二甲"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="閱讀"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="二甲"></Room>
@@ -942,10 +942,10 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="14:10">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二甲"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -953,39 +953,39 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二甲"></Room>
+      <Teacher name="陳冠宇"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="二甲"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="二甲"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="二甲"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="二甲"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-      <Teacher name="陳冠宇"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="二甲"></Room>
-    </Hour>
-    <Hour name="09:00">
       <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="二甲"></Room>
     </Hour>
+    <Hour name="09:00">
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
+    </Hour>
     <Hour name="10:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="11:00">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="二甲"></Room>
@@ -994,7 +994,7 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二甲"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -1008,48 +1008,48 @@
       <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二甲"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     
+      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="二甲"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="二甲"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="二甲"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="陳冠宇"></Teacher><Subject name="數學"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="二甲"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="司秀梅"></Teacher><Subject name="閱讀"></Subject><Room name="二甲"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
       <Teacher name="司秀梅"></Teacher><Subject name="英文"></Subject><Room name="二甲"></Room>
@@ -1062,13 +1062,13 @@
       <Teacher name="鍾楚紅"></Teacher><Subject name="地理"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1077,7 +1077,7 @@
       <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -1085,39 +1085,39 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二乙"></Room>
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二乙"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="陳冠宇"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="二乙"></Room>
+      <Teacher name="司秀梅"></Teacher><Subject name="閱讀"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二乙"></Room>
+      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="二乙"></Room>
+      <Teacher name="鍾楚紅"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="二乙"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
+      <Teacher name="劉銘婠"></Teacher><Subject name="公民"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="二乙"></Room>
@@ -1126,7 +1126,7 @@
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -1137,7 +1137,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
+      <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
       <Teacher name="林柔孜"></Teacher><Subject name="藝文"></Subject><Room name="二乙"></Room>
@@ -1146,19 +1146,19 @@
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
+      <Teacher name="陳冠宇"></Teacher><Subject name="健康與體育（健康）"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     
+      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
-      <Teacher name="鍾楚紅"></Teacher><Subject name="綜合活動（家政）"></Subject><Room name="二乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="陳惠玲"></Teacher><Subject name="健康與體育（體育）"></Subject><Room name="二乙"></Room>
+      <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -1166,25 +1166,25 @@
       <Teacher name="王恩竹"></Teacher><Subject name="英文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
-      <Teacher name="劉銘婠"></Teacher><Subject name="歷史"></Subject><Room name="二乙"></Room>
+      <Teacher name="劉康文"></Teacher><Subject name="自然"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="吳崇岳"></Teacher> <Teacher name="增置數學"></Teacher><Subject name="數學"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="司秀梅"></Teacher><Subject name="閱讀"></Subject><Room name="二乙"></Room>
+      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（童軍）"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-      <Teacher name="張誠芳"></Teacher><Subject name="綜合活動（輔導）"></Subject><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="14:10">
       <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
-      <Teacher name="董蘭英"></Teacher><Subject name="雅美語"></Subject><Room name="二乙"></Room>
+      <Teacher name="余錦梅"></Teacher><Subject name="國文"></Subject><Room name="二乙"></Room>
     </Hour>
    </Day>
   </Subgroup>

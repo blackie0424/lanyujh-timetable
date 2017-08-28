@@ -1,5 +1,5 @@
 ﻿Soft conflicts of 蘭嶼高中10601課表.fet
-Generated with FET 5.32.3 on 2017/8/28 下午1:49
+Generated with FET 5.32.3 on 2017/8/28 下午2:22
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
