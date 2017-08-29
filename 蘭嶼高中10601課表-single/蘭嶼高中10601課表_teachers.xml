@@ -12,7 +12,7 @@
      <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="數學"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -29,7 +29,7 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="09:00">
      <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
@@ -58,7 +58,7 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="數學"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="10:00">
      <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
@@ -70,7 +70,7 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="數學"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -81,7 +81,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     <Subject name="數學"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
@@ -90,19 +90,19 @@
      <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="電腦應用"></Subject><Students name="中五"></Students><Room name="電腦教室"></Room>
+     
     </Hour>
     <Hour name="14:10">
-     <Subject name="電腦應用"></Subject><Students name="中五"></Students><Room name="電腦教室"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -122,13 +122,13 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="電腦應用"></Subject><Students name="中五"></Students><Room name="電腦教室"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="電腦應用"></Subject><Students name="中五"></Students><Room name="電腦教室"></Room>
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="數學"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -153,7 +153,7 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -167,10 +167,10 @@
      <Subject name="數學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="健康與體育（健康）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -182,7 +182,7 @@
      
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -216,13 +216,13 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="健康與體育（健康）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="10:00">
      <Subject name="數學"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -231,7 +231,7 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -257,10 +257,10 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="健康與體育（健康）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="健康與體育（健康）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="數學"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -273,10 +273,10 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="國文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -285,7 +285,7 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -311,10 +311,10 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -351,10 +351,10 @@
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -363,10 +363,10 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="國文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -380,16 +380,16 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="14:10">
-     <Subject name="國文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -408,16 +408,16 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="14:10">
-     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -440,18 +440,18 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="14:10">
      <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
@@ -460,7 +460,7 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -524,7 +524,7 @@
      <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="國文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -540,7 +540,7 @@
      <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="英文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -572,13 +572,13 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="英文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="英文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -589,7 +589,7 @@
      <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -609,7 +609,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="09:00">
      <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
@@ -624,10 +624,10 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="英文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="英文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -653,10 +653,10 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="英文"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -741,7 +741,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     
+     <Subject name="綜合活動（家政）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
      <Subject name="英文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
@@ -750,13 +750,13 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="綜合活動（家政）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="綜合活動（家政）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -782,7 +782,7 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="綜合活動（家政）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -798,13 +798,13 @@
      <Subject name="歷史"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="公民"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="公民"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="公民"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -813,7 +813,7 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="歷史"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -821,16 +821,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="歷史"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="公民"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="歷史"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="歷史"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="公民"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="公民"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -839,10 +839,10 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="公民"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     <Subject name="公民"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="歷史"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -850,13 +850,13 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="歷史"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="歷史"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="公民"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -879,7 +879,7 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="歷史"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="歷史"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -894,21 +894,21 @@
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="公民"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="歷史"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     <Subject name="歷史"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="歷史"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
-    </Hour>
-    <Hour name="10:00">
      
     </Hour>
+    <Hour name="10:00">
+     <Subject name="公民"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
     <Hour name="11:00">
-     <Subject name="公民"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -933,10 +933,10 @@
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="蘭嶼自然生態"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="地理"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     <Subject name="蘭嶼自然生態"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -953,10 +953,88 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="地球科學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="雅美文化"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="雅美文化"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Subject name="地理"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="地理"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="地理"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Subject name="綜合活動（家政）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Subject name="地球科學"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+    </Hour>
+    <Hour name="15:10">
      <Subject name="地理"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
     </Hour>
     <Hour name="10:00">
      
@@ -971,88 +1049,10 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="蘭嶼自然生態"></Subject><Students name="中六"></Students><Room name="中六"></Room>
-    </Hour>
-    <Hour name="15:10">
-     <Subject name="蘭嶼自然生態"></Subject><Students name="中六"></Students><Room name="中六"></Room>
-    </Hour>
-   </Day>
-   <Day name="Wednesday">
-    <Hour name="08:00">
      <Subject name="地球科學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
-    <Hour name="09:00">
-     <Subject name="地理"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-     
-    </Hour>
-    <Hour name="14:10">
-     
-    </Hour>
     <Hour name="15:10">
-     
-    </Hour>
-   </Day>
-   <Day name="Thursday">
-    <Hour name="08:00">
-     
-    </Hour>
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-     
-    </Hour>
-    <Hour name="14:10">
-     <Subject name="綜合活動（家政）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
-    </Hour>
-    <Hour name="15:10">
-     <Subject name="地理"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
-    </Hour>
-   </Day>
-   <Day name="Friday">
-    <Hour name="08:00">
-     <Subject name="雅美文化"></Subject><Students name="中四"></Students><Room name="中四"></Room>
-    </Hour>
-    <Hour name="09:00">
-     <Subject name="雅美文化"></Subject><Students name="中四"></Students><Room name="中四"></Room>
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
      <Subject name="地理"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-     
-    </Hour>
-    <Hour name="14:10">
-     
-    </Hour>
-    <Hour name="15:10">
-     
     </Hour>
    </Day>
   </Teacher>
@@ -1062,7 +1062,7 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
      <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
@@ -1074,7 +1074,7 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -1085,22 +1085,22 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="09:00">
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -1143,16 +1143,16 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -1163,10 +1163,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="自然"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="10:00">
      
@@ -1184,7 +1184,7 @@
      
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="自然"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -1200,7 +1200,7 @@
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1209,7 +1209,7 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="健康與體育（健康）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -1243,13 +1243,13 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     
+     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1269,7 +1269,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
      
@@ -1278,7 +1278,7 @@
      <Subject name="健康與體育（健康）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1287,24 +1287,24 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     <Subject name="健康與體育（健康）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="自然"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="自然"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="自然"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1316,7 +1316,7 @@
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="自然"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -1326,13 +1326,13 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -1341,7 +1341,7 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -1355,7 +1355,7 @@
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1364,13 +1364,13 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="14:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1384,7 +1384,7 @@
      <Subject name="健康與體育（體育）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -1404,19 +1404,19 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -1427,7 +1427,7 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
      
@@ -1436,7 +1436,7 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1455,10 +1455,10 @@
   <Teacher name="陳彭建中">
    <Day name="Monday">
     <Hour name="08:00">
-     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="10:00">
      
@@ -1481,10 +1481,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="自習"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
     </Hour>
     <Hour name="10:00">
      
@@ -1496,13 +1496,13 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="餐旅概論"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="14:10">
      <Subject name="餐旅概論"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="餐旅概論"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1510,13 +1510,13 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     
     </Hour>
     <Hour name="10:00">
-     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1533,7 +1533,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     
+     <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
     </Hour>
     <Hour name="09:00">
      <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
@@ -1542,7 +1542,7 @@
      <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="飲料與調酒"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -1574,13 +1574,13 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="自習"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+     <Subject name="觀光概論"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="專題製作"></Subject><Students name="中六"></Students><Room name="電腦教室"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -1694,13 +1694,13 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="餐旅服務"></Subject><Students name="中五"></Students><Room name="餐服教室"></Room>
+     
     </Hour>
     <Hour name="10:00">
      <Subject name="餐旅服務"></Subject><Students name="中五"></Students><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="餐旅服務"></Subject><Students name="中五"></Students><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1760,13 +1760,13 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="職業試探"></Subject><Students name="中四"></Students><Room name="餐服教室"></Room>
+     
     </Hour>
     <Hour name="14:10">
      <Subject name="職業試探"></Subject><Students name="中四"></Students><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="職業試探"></Subject><Students name="中四"></Students><Room name="餐服教室"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1786,7 +1786,7 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="餐旅實習"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -1803,7 +1803,7 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="國際禮儀"></Subject><Students name="中四"></Students><Room name="餐服教室"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -1812,13 +1812,13 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙（中餐）教室"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙（中餐）教室"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="餐旅實習"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙（中餐）教室"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -1838,13 +1838,13 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙（中餐）教室"></Room>
+     <Subject name="國際禮儀"></Subject><Students name="中四"></Students><Room name="餐服教室"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙（中餐）教室"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     <Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙（中餐）教室"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -1918,7 +1918,7 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="護理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="14:10">
      
@@ -1958,7 +1958,7 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="護理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
      
@@ -2009,13 +2009,13 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="雅美語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="雅美語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -2024,7 +2024,7 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="雅美語"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2041,7 +2041,7 @@
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="雅美語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -2061,7 +2061,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     
+     <Subject name="雅美語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
      <Subject name="雅美語"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
@@ -2076,10 +2076,10 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="雅美語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="雅美語"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="雅美語"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="雅美語"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -2087,7 +2087,7 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="雅美語"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
@@ -2102,13 +2102,13 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="雅美語"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="14:10">
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="雅美語"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -2288,7 +2288,7 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="國防"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2357,7 +2357,7 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="國防"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -2394,10 +2394,10 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -2411,7 +2411,7 @@
      <Subject name="數學"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -2420,13 +2420,13 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -2457,7 +2457,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
@@ -2466,19 +2466,19 @@
      <Subject name="數學"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="健康與體育（體育）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="數學"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="14:10">
      
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -2540,7 +2540,7 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="生命教育"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
@@ -2552,7 +2552,7 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="生命教育"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2646,13 +2646,13 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     <Subject name="物理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -2661,7 +2661,7 @@
      <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="物理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -2669,25 +2669,25 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
-    </Hour>
-    <Hour name="09:00">
-     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
-    </Hour>
-    <Hour name="10:00">
      <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
+    <Hour name="09:00">
+     <Subject name="生物"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
     <Hour name="11:00">
-     <Subject name="物理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -2695,22 +2695,22 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="生物"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2721,10 +2721,10 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="生物"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
      
@@ -2736,27 +2736,27 @@
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="國文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="國文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="物理"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="生物"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -2765,7 +2765,7 @@
      <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="國文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -2775,13 +2775,13 @@
   <Teacher name="林俊毅">
    <Day name="Monday">
     <Hour name="08:00">
-     
-    </Hour>
-    <Hour name="09:00">
      <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
     <Hour name="10:00">
-     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -2793,7 +2793,7 @@
      <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -2804,7 +2804,7 @@
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
@@ -2819,30 +2819,30 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="健康與體育（體育）"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="健康與體育（體育）"></Subject><Students name="中六"></Students><Room name="中六"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2853,36 +2853,36 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="14:10">
      <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     
+     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
@@ -2894,10 +2894,10 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="健康與體育（體育）"></Subject><Students name="中六"></Students><Room name="中六"></Room>
+     <Subject name="國文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="國文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="國文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -2916,13 +2916,13 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="綜合活動（輔導）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="綜合活動（輔導）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="綜合活動（童軍）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2939,16 +2939,16 @@
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="綜合活動（童軍）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="綜合活動（輔導）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="綜合活動（輔導）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2959,22 +2959,22 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="綜合活動（輔導）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="綜合活動（童軍）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -2988,10 +2988,10 @@
      
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="綜合活動（童軍）"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="綜合活動（輔導）"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -3000,10 +3000,10 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     <Subject name="綜合活動（童軍）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="綜合活動（童軍）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -3011,28 +3011,28 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="綜合活動（童軍）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="綜合活動（童軍）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="綜合活動（輔導）"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="綜合活動（童軍）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
-     
+     <Subject name="綜合活動（輔導）"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -3312,7 +3312,7 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="綜合活動（家政）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -3329,13 +3329,13 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     
+     <Subject name="健康與體育（健康）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="閱讀"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="綜合活動（家政）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -3350,7 +3350,7 @@
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="閱讀"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -3361,7 +3361,7 @@
      
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="閱讀"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -3407,13 +3407,13 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     <Subject name="健康與體育（健康）"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
     <Hour name="09:00">
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="綜合活動（家政）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -3425,10 +3425,10 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="綜合活動（家政）"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="閱讀"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -3441,19 +3441,19 @@
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="美術"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="美術"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
+     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
+     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -3461,13 +3461,13 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
-    </Hour>
-    <Hour name="09:00">
      
     </Hour>
+    <Hour name="09:00">
+     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
+    </Hour>
     <Hour name="10:00">
-     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
+     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -3476,10 +3476,10 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
+     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
+     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -3487,13 +3487,13 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
+     <Subject name="美術"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
-     
+     <Subject name="美術"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -3502,7 +3502,7 @@
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="藝文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
     </Hour>
     <Hour name="14:10">
      
@@ -3513,51 +3513,51 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:00">
-     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="美術教室"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     
+     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="14:10">
-     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
+     <Subject name="藝文"></Subject><Students name="三乙"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="美術教室"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     
+     <Subject name="藝文"></Subject><Students name="三甲"></Students><Room name="三甲"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="藝文"></Subject><Students name="一甲"></Students><Room name="美術教室"></Room>
+     <Subject name="藝文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:10">
-     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="藝文"></Subject><Students name="二乙"></Students><Room name="美術教室"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -3567,16 +3567,16 @@
   <Teacher name="司秀梅">
    <Day name="Monday">
     <Hour name="08:00">
-     <Subject name="英文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="英文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
     <Hour name="10:00">
      <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="11:00">
-     <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -3585,7 +3585,7 @@
      
     </Hour>
     <Hour name="14:10">
-     
+     <Subject name="閱讀"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="15:10">
      
@@ -3593,65 +3593,13 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     
-    </Hour>
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
      <Subject name="英文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
     </Hour>
-    <Hour name="11:00">
-     <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-     
-    </Hour>
-    <Hour name="14:10">
-     
-    </Hour>
-    <Hour name="15:10">
-     
-    </Hour>
-   </Day>
-   <Day name="Wednesday">
-    <Hour name="08:00">
-     
-    </Hour>
     <Hour name="09:00">
-     <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="10:00">
-     <Subject name="閱讀"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
-    </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:10">
-     
-    </Hour>
-    <Hour name="14:10">
-     
-    </Hour>
-    <Hour name="15:10">
-     
-    </Hour>
-   </Day>
-   <Day name="Thursday">
-    <Hour name="08:00">
      <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
-    </Hour>
-    <Hour name="09:00">
-     <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
-    </Hour>
-    <Hour name="10:00">
-     
     </Hour>
     <Hour name="11:00">
      <Subject name="閱讀"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
@@ -3666,18 +3614,44 @@
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="英文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+     
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="英文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
     <Hour name="08:00">
      
     </Hour>
     <Hour name="09:00">
-     <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+     <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
     </Hour>
     <Hour name="10:00">
-     <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -3692,7 +3666,33 @@
      
     </Hour>
     <Hour name="15:10">
+     <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Subject name="英文"></Subject><Students name="二甲"></Students><Room name="二甲"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="英文"></Subject><Students name="三乙"></Students><Room name="三乙"></Room>
+    </Hour>
+    <Hour name="11:00">
      <Subject name="英文"></Subject><Students name="中四"></Students><Room name="中四"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
     </Hour>
    </Day>
   </Teacher>
@@ -3702,13 +3702,13 @@
      <Subject name="英文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="英文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     
+     <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -3717,7 +3717,7 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="英文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="15:10">
      
@@ -3725,13 +3725,13 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:00">
-     
+     <Subject name="英文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
      
     </Hour>
     <Hour name="10:00">
-     <Subject name="英文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     
     </Hour>
     <Hour name="11:00">
      <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
@@ -3746,21 +3746,21 @@
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="英文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="英文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:00">
-     
+     <Subject name="英文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="09:00">
-     <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="英文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="英文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
+     <Subject name="英文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -3786,7 +3786,7 @@
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -3798,21 +3798,21 @@
      
     </Hour>
     <Hour name="15:10">
-     <Subject name="英文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="08:00">
-     
+     <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
     </Hour>
     <Hour name="09:00">
-     
+     <Subject name="英文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-     <Subject name="英文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
@@ -3821,10 +3821,10 @@
      
     </Hour>
     <Hour name="14:10">
-     <Subject name="英文"></Subject><Students name="二乙"></Students><Room name="二乙"></Room>
+     <Subject name="英文"></Subject><Students name="一甲"></Students><Room name="一甲"></Room>
     </Hour>
     <Hour name="15:10">
-     <Subject name="英文"></Subject><Students name="一乙"></Students><Room name="一乙"></Room>
+     <Subject name="英文"></Subject><Students name="中五"></Students><Room name="中五"></Room>
     </Hour>
    </Day>
   </Teacher>
