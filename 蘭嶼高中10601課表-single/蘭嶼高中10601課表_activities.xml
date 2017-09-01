@@ -3,7 +3,7 @@
 <Activity>
 	<Id>1</Id>
 	<Day>Wednesday</Day>
-	<Hour>09:00</Hour>
+	<Hour>13:10</Hour>
 	<Room>餐服教室</Room>
 </Activity>
 <Activity>
@@ -26,7 +26,7 @@
 </Activity>
 <Activity>
 	<Id>5</Id>
-	<Day>Wednesday</Day>
+	<Day>Friday</Day>
 	<Hour>13:10</Hour>
 	<Room>中六</Room>
 </Activity>
@@ -38,7 +38,7 @@
 </Activity>
 <Activity>
 	<Id>8</Id>
-	<Day>Wednesday</Day>
+	<Day>Monday</Day>
 	<Hour>10:00</Hour>
 	<Room>餐服教室</Room>
 </Activity>
@@ -62,26 +62,26 @@
 </Activity>
 <Activity>
 	<Id>12</Id>
-	<Day>Friday</Day>
-	<Hour>08:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>09:00</Hour>
 	<Room>飲調教室</Room>
 </Activity>
 <Activity>
 	<Id>13</Id>
-	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Friday</Day>
+	<Hour>08:00</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>16</Id>
-	<Day>Wednesday</Day>
-	<Hour>09:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>電腦教室</Room>
 </Activity>
 <Activity>
 	<Id>17</Id>
-	<Day>Tuesday</Day>
-	<Hour>10:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>14:10</Hour>
 	<Room>電腦教室</Room>
 </Activity>
 <Activity>
@@ -92,19 +92,19 @@
 </Activity>
 <Activity>
 	<Id>19</Id>
-	<Day>Thursday</Day>
-	<Hour>09:00</Hour>
+	<Day>Friday</Day>
+	<Hour>13:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>25</Id>
-	<Day>Tuesday</Day>
-	<Hour>14:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>10:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>26</Id>
-	<Day>Friday</Day>
+	<Day>Tuesday</Day>
 	<Hour>14:10</Hour>
 	<Room>三乙</Room>
 </Activity>
@@ -116,8 +116,8 @@
 </Activity>
 <Activity>
 	<Id>28</Id>
-	<Day>Thursday</Day>
-	<Hour>10:00</Hour>
+	<Day>Friday</Day>
+	<Hour>15:10</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
@@ -128,116 +128,116 @@
 </Activity>
 <Activity>
 	<Id>30</Id>
-	<Day>Thursday</Day>
-	<Hour>14:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>10:00</Hour>
 	<Room>中六</Room>
 </Activity>
 <Activity>
 	<Id>31</Id>
-	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>09:00</Hour>
 	<Room>中六</Room>
 </Activity>
 <Activity>
 	<Id>32</Id>
-	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Friday</Day>
+	<Hour>08:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>33</Id>
-	<Day>Wednesday</Day>
-	<Hour>09:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>13:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>34</Id>
-	<Day>Thursday</Day>
-	<Hour>15:10</Hour>
+	<Day>Monday</Day>
+	<Hour>13:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>35</Id>
-	<Day>Friday</Day>
+	<Day>Wednesday</Day>
 	<Hour>13:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>36</Id>
-	<Day>Tuesday</Day>
+	<Day>Thursday</Day>
 	<Hour>10:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>37</Id>
-	<Day>Monday</Day>
+	<Day>Tuesday</Day>
 	<Hour>13:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>38</Id>
 	<Day>Wednesday</Day>
-	<Hour>08:00</Hour>
+	<Hour>09:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>39</Id>
-	<Day>Thursday</Day>
+	<Day>Friday</Day>
 	<Hour>13:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>40</Id>
-	<Day>Monday</Day>
+	<Day>Friday</Day>
 	<Hour>10:00</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>41</Id>
-	<Day>Wednesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>15:10</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>42</Id>
-	<Day>Friday</Day>
-	<Hour>14:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>43</Id>
-	<Day>Monday</Day>
-	<Hour>13:10</Hour>
-	<Room>中四</Room>
-</Activity>
-<Activity>
-	<Id>44</Id>
-	<Day>Wednesday</Day>
-	<Hour>10:00</Hour>
-	<Room>中四</Room>
-</Activity>
-<Activity>
-	<Id>45</Id>
 	<Day>Friday</Day>
 	<Hour>08:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
-	<Id>46</Id>
+	<Id>44</Id>
+	<Day>Thursday</Day>
+	<Hour>15:10</Hour>
+	<Room>中四</Room>
+</Activity>
+<Activity>
+	<Id>45</Id>
 	<Day>Thursday</Day>
 	<Hour>14:10</Hour>
+	<Room>中四</Room>
+</Activity>
+<Activity>
+	<Id>46</Id>
+	<Day>Monday</Day>
+	<Hour>10:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>47</Id>
 	<Day>Thursday</Day>
-	<Hour>08:00</Hour>
+	<Hour>13:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>48</Id>
-	<Day>Wednesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>15:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
@@ -254,56 +254,56 @@
 </Activity>
 <Activity>
 	<Id>51</Id>
-	<Day>Friday</Day>
+	<Day>Thursday</Day>
 	<Hour>10:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>52</Id>
-	<Day>Thursday</Day>
-	<Hour>13:10</Hour>
+	<Day>Monday</Day>
+	<Hour>14:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>53</Id>
+	<Day>Tuesday</Day>
+	<Hour>10:00</Hour>
+	<Room>一乙</Room>
+</Activity>
+<Activity>
+	<Id>54</Id>
 	<Day>Wednesday</Day>
 	<Hour>09:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
-	<Id>54</Id>
-	<Day>Monday</Day>
-	<Hour>13:10</Hour>
-	<Room>一乙</Room>
-</Activity>
-<Activity>
 	<Id>55</Id>
-	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Friday</Day>
+	<Hour>10:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>56</Id>
-	<Day>Friday</Day>
+	<Day>Monday</Day>
 	<Hour>13:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>57</Id>
-	<Day>Monday</Day>
-	<Hour>10:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>13:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>58</Id>
-	<Day>Tuesday</Day>
-	<Hour>09:00</Hour>
+	<Day>Friday</Day>
+	<Hour>15:10</Hour>
 	<Room>中六</Room>
 </Activity>
 <Activity>
 	<Id>59</Id>
-	<Day>Friday</Day>
-	<Hour>14:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>10:00</Hour>
 	<Room>中六</Room>
 </Activity>
 <Activity>
@@ -333,7 +333,7 @@
 <Activity>
 	<Id>64</Id>
 	<Day>Friday</Day>
-	<Hour>08:00</Hour>
+	<Hour>11:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
@@ -368,8 +368,8 @@
 </Activity>
 <Activity>
 	<Id>70</Id>
-	<Day>Friday</Day>
-	<Hour>15:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>11:00</Hour>
 	<Room>中六</Room>
 </Activity>
 <Activity>
@@ -380,56 +380,56 @@
 </Activity>
 <Activity>
 	<Id>72</Id>
-	<Day>Wednesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Friday</Day>
+	<Hour>14:10</Hour>
 	<Room>中六</Room>
 </Activity>
 <Activity>
 	<Id>73</Id>
 	<Day>Monday</Day>
-	<Hour>14:10</Hour>
+	<Hour>08:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>74</Id>
 	<Day>Thursday</Day>
-	<Hour>08:00</Hour>
+	<Hour>10:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>75</Id>
 	<Day>Monday</Day>
-	<Hour>08:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>76</Id>
-	<Day>Wednesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>10:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>77</Id>
-	<Day>Friday</Day>
+	<Day>Wednesday</Day>
 	<Hour>09:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>78</Id>
-	<Day>Tuesday</Day>
+	<Day>Thursday</Day>
 	<Hour>11:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>79</Id>
-	<Day>Tuesday</Day>
-	<Hour>14:10</Hour>
+	<Day>Monday</Day>
+	<Hour>09:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>80</Id>
-	<Day>Monday</Day>
-	<Hour>09:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>15:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
@@ -441,7 +441,7 @@
 <Activity>
 	<Id>82</Id>
 	<Day>Thursday</Day>
-	<Hour>10:00</Hour>
+	<Hour>13:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
@@ -470,44 +470,44 @@
 </Activity>
 <Activity>
 	<Id>87</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Day>Friday</Day>
+	<Hour>15:10</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>88</Id>
-	<Day>Friday</Day>
-	<Hour>11:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>08:00</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>89</Id>
 	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
+	<Hour>14:10</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>90</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
+	<Day>Monday</Day>
+	<Hour>14:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>91</Id>
-	<Day>Friday</Day>
-	<Hour>15:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>11:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>92</Id>
-	<Day>Monday</Day>
-	<Hour>08:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>14:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>93</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Day>Friday</Day>
+	<Hour>15:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
@@ -542,8 +542,8 @@
 </Activity>
 <Activity>
 	<Id>99</Id>
-	<Day>Monday</Day>
-	<Hour>14:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>10:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
@@ -554,20 +554,20 @@
 </Activity>
 <Activity>
 	<Id>101</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
-	<Room>一乙</Room>
-</Activity>
-<Activity>
-	<Id>102</Id>
 	<Day>Friday</Day>
 	<Hour>15:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
-	<Id>103</Id>
+	<Id>102</Id>
 	<Day>Thursday</Day>
 	<Hour>08:00</Hour>
+	<Room>一乙</Room>
+</Activity>
+<Activity>
+	<Id>103</Id>
+	<Day>Tuesday</Day>
+	<Hour>11:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
@@ -584,8 +584,8 @@
 </Activity>
 <Activity>
 	<Id>106</Id>
-	<Day>Thursday</Day>
-	<Hour>10:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
@@ -620,13 +620,13 @@
 </Activity>
 <Activity>
 	<Id>112</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Day>Monday</Day>
+	<Hour>14:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>113</Id>
-	<Day>Tuesday</Day>
+	<Day>Thursday</Day>
 	<Hour>10:00</Hour>
 	<Room>二乙</Room>
 </Activity>
@@ -650,26 +650,26 @@
 </Activity>
 <Activity>
 	<Id>117</Id>
-	<Day>Thursday</Day>
-	<Hour>08:00</Hour>
+	<Day>Friday</Day>
+	<Hour>13:10</Hour>
 	<Room>電腦教室</Room>
 </Activity>
 <Activity>
 	<Id>118</Id>
-	<Day>Friday</Day>
-	<Hour>13:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>11:00</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>119</Id>
 	<Day>Wednesday</Day>
-	<Hour>09:00</Hour>
+	<Hour>13:10</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>120</Id>
-	<Day>Friday</Day>
-	<Hour>14:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>15:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
@@ -680,14 +680,14 @@
 </Activity>
 <Activity>
 	<Id>122</Id>
-	<Day>Wednesday</Day>
+	<Day>Thursday</Day>
 	<Hour>13:10</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>123</Id>
-	<Day>Thursday</Day>
-	<Hour>13:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>09:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
@@ -728,8 +728,8 @@
 </Activity>
 <Activity>
 	<Id>134</Id>
-	<Day>Thursday</Day>
-	<Hour>10:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
@@ -740,44 +740,44 @@
 </Activity>
 <Activity>
 	<Id>136</Id>
-	<Day>Monday</Day>
-	<Hour>13:10</Hour>
-	<Room>一甲</Room>
-</Activity>
-<Activity>
-	<Id>137</Id>
 	<Day>Friday</Day>
 	<Hour>13:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
+	<Id>137</Id>
+	<Day>Tuesday</Day>
+	<Hour>11:00</Hour>
+	<Room>一甲</Room>
+</Activity>
+<Activity>
 	<Id>138</Id>
-	<Day>Wednesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Monday</Day>
+	<Hour>13:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>139</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>140</Id>
 	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Hour>13:10</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>141</Id>
 	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Hour>08:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>142</Id>
 	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Hour>15:10</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
@@ -794,44 +794,44 @@
 </Activity>
 <Activity>
 	<Id>145</Id>
-	<Day>Thursday</Day>
-	<Hour>14:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>11:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>146</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>147</Id>
 	<Day>Friday</Day>
-	<Hour>11:00</Hour>
+	<Hour>15:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>148</Id>
-	<Day>Thursday</Day>
-	<Hour>10:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>08:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>149</Id>
-	<Day>Wednesday</Day>
-	<Hour>10:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>09:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>150</Id>
-	<Day>Wednesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Monday</Day>
+	<Hour>09:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>151</Id>
-	<Day>Monday</Day>
-	<Hour>09:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
@@ -843,25 +843,25 @@
 <Activity>
 	<Id>153</Id>
 	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Hour>11:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>154</Id>
 	<Day>Thursday</Day>
-	<Hour>09:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>155</Id>
-	<Day>Friday</Day>
-	<Hour>08:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>11:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>156</Id>
 	<Day>Friday</Day>
-	<Hour>15:10</Hour>
+	<Hour>14:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
@@ -878,32 +878,32 @@
 </Activity>
 <Activity>
 	<Id>159</Id>
-	<Day>Wednesday</Day>
-	<Hour>10:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>160</Id>
-	<Day>Wednesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>14:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>161</Id>
-	<Day>Friday</Day>
+	<Day>Tuesday</Day>
 	<Hour>11:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>162</Id>
-	<Day>Friday</Day>
-	<Hour>15:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>10:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>163</Id>
-	<Day>Monday</Day>
-	<Hour>14:10</Hour>
+	<Day>Friday</Day>
+	<Hour>11:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
@@ -914,8 +914,8 @@
 </Activity>
 <Activity>
 	<Id>165</Id>
-	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>10:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
@@ -927,55 +927,55 @@
 <Activity>
 	<Id>167</Id>
 	<Day>Thursday</Day>
-	<Hour>10:00</Hour>
+	<Hour>11:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>168</Id>
-	<Day>Tuesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Friday</Day>
+	<Hour>14:10</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>169</Id>
-	<Day>Thursday</Day>
-	<Hour>15:10</Hour>
+	<Day>Friday</Day>
+	<Hour>08:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>170</Id>
 	<Day>Thursday</Day>
-	<Hour>14:10</Hour>
+	<Hour>08:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>171</Id>
-	<Day>Monday</Day>
-	<Hour>14:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>09:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>172</Id>
-	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>15:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>173</Id>
 	<Day>Friday</Day>
-	<Hour>14:10</Hour>
+	<Hour>09:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>174</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Day>Monday</Day>
+	<Hour>08:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>175</Id>
-	<Day>Thursday</Day>
-	<Hour>15:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
@@ -986,14 +986,14 @@
 </Activity>
 <Activity>
 	<Id>177</Id>
-	<Day>Tuesday</Day>
+	<Day>Thursday</Day>
 	<Hour>09:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>178</Id>
 	<Day>Friday</Day>
-	<Hour>09:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
@@ -1004,56 +1004,56 @@
 </Activity>
 <Activity>
 	<Id>180</Id>
-	<Day>Wednesday</Day>
-	<Hour>09:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>15:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>181</Id>
-	<Day>Thursday</Day>
-	<Hour>14:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>08:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>182</Id>
 	<Day>Friday</Day>
-	<Hour>08:00</Hour>
+	<Hour>15:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>183</Id>
-	<Day>Friday</Day>
+	<Day>Tuesday</Day>
 	<Hour>15:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>184</Id>
 	<Day>Monday</Day>
-	<Hour>09:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>185</Id>
 	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>186</Id>
-	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>09:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>187</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
+	<Day>Friday</Day>
+	<Hour>08:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>188</Id>
-	<Day>Thursday</Day>
-	<Hour>08:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>11:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
@@ -1064,32 +1064,32 @@
 </Activity>
 <Activity>
 	<Id>190</Id>
-	<Day>Wednesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>08:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>191</Id>
-	<Day>Thursday</Day>
-	<Hour>15:10</Hour>
+	<Day>Friday</Day>
+	<Hour>11:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>192</Id>
 	<Day>Tuesday</Day>
-	<Hour>10:00</Hour>
+	<Hour>08:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>193</Id>
-	<Day>Tuesday</Day>
-	<Hour>14:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>10:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>194</Id>
-	<Day>Friday</Day>
-	<Hour>08:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>15:10</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
@@ -1100,38 +1100,38 @@
 </Activity>
 <Activity>
 	<Id>196</Id>
-	<Day>Thursday</Day>
+	<Day>Tuesday</Day>
 	<Hour>13:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>197</Id>
-	<Day>Tuesday</Day>
-	<Hour>10:00</Hour>
+	<Day>Friday</Day>
+	<Hour>09:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>198</Id>
-	<Day>Friday</Day>
-	<Hour>15:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>13:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>199</Id>
-	<Day>Wednesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>200</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:10</Hour>
+	<Day>Monday</Day>
+	<Hour>09:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
 	<Id>201</Id>
-	<Day>Friday</Day>
-	<Hour>09:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>14:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
@@ -1149,36 +1149,36 @@
 <Activity>
 	<Id>204</Id>
 	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Hour>10:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>205</Id>
 	<Day>Thursday</Day>
-	<Hour>08:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>206</Id>
-	<Day>Tuesday</Day>
-	<Hour>09:00</Hour>
+	<Day>Friday</Day>
+	<Hour>10:00</Hour>
 	<Room>美術教室</Room>
 </Activity>
 <Activity>
 	<Id>207</Id>
-	<Day>Monday</Day>
-	<Hour>11:00</Hour>
+	<Day>Wednesday</Day>
+	<Hour>13:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>208</Id>
-	<Day>Friday</Day>
-	<Hour>13:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>10:00</Hour>
 	<Room>美術教室</Room>
 </Activity>
 <Activity>
 	<Id>209</Id>
-	<Day>Wednesday</Day>
+	<Day>Friday</Day>
 	<Hour>13:10</Hour>
 	<Room>一乙</Room>
 </Activity>
@@ -1190,8 +1190,8 @@
 </Activity>
 <Activity>
 	<Id>211</Id>
-	<Day>Wednesday</Day>
-	<Hour>11:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>08:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
@@ -1202,14 +1202,14 @@
 </Activity>
 <Activity>
 	<Id>213</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Day>Friday</Day>
+	<Hour>08:00</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>214</Id>
 	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Hour>10:00</Hour>
 	<Room>美術教室</Room>
 </Activity>
 <Activity>
@@ -1220,8 +1220,8 @@
 </Activity>
 <Activity>
 	<Id>216</Id>
-	<Day>Thursday</Day>
-	<Hour>08:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>13:10</Hour>
 	<Room>美術教室</Room>
 </Activity>
 <Activity>
@@ -1232,44 +1232,44 @@
 </Activity>
 <Activity>
 	<Id>218</Id>
-	<Day>Friday</Day>
-	<Hour>10:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>08:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>219</Id>
 	<Day>Monday</Day>
-	<Hour>10:00</Hour>
+	<Hour>11:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>220</Id>
 	<Day>Wednesday</Day>
-	<Hour>09:00</Hour>
+	<Hour>11:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>221</Id>
 	<Day>Monday</Day>
-	<Hour>14:10</Hour>
+	<Hour>08:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>222</Id>
 	<Day>Thursday</Day>
-	<Hour>09:00</Hour>
+	<Hour>15:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>223</Id>
 	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Hour>15:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>224</Id>
 	<Day>Friday</Day>
-	<Hour>11:00</Hour>
+	<Hour>09:00</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
@@ -1281,7 +1281,7 @@
 <Activity>
 	<Id>226</Id>
 	<Day>Friday</Day>
-	<Hour>09:00</Hour>
+	<Hour>11:00</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
@@ -1298,44 +1298,44 @@
 </Activity>
 <Activity>
 	<Id>229</Id>
-	<Day>Friday</Day>
-	<Hour>10:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>08:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>230</Id>
 	<Day>Monday</Day>
-	<Hour>08:00</Hour>
+	<Hour>13:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>231</Id>
 	<Day>Thursday</Day>
-	<Hour>15:10</Hour>
+	<Hour>10:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>232</Id>
-	<Day>Tuesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>14:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>233</Id>
-	<Day>Friday</Day>
-	<Hour>11:00</Hour>
+	<Day>Monday</Day>
+	<Hour>10:00</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>234</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00</Hour>
+	<Day>Friday</Day>
+	<Hour>10:00</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
 	<Id>235</Id>
 	<Day>Tuesday</Day>
-	<Hour>10:00</Hour>
+	<Hour>14:10</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
@@ -1346,14 +1346,14 @@
 </Activity>
 <Activity>
 	<Id>237</Id>
-	<Day>Monday</Day>
-	<Hour>14:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>08:00</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
 	<Id>238</Id>
-	<Day>Wednesday</Day>
-	<Hour>08:00</Hour>
+	<Day>Monday</Day>
+	<Hour>14:10</Hour>
 	<Room>三甲</Room>
 </Activity>
 <Activity>
@@ -1364,14 +1364,14 @@
 </Activity>
 <Activity>
 	<Id>240</Id>
-	<Day>Tuesday</Day>
-	<Hour>13:10</Hour>
+	<Day>Friday</Day>
+	<Hour>15:10</Hour>
 	<Room>一甲</Room>
 </Activity>
 <Activity>
 	<Id>241</Id>
-	<Day>Thursday</Day>
-	<Hour>14:10</Hour>
+	<Day>Wednesday</Day>
+	<Hour>13:10</Hour>
 	<Room>一乙</Room>
 </Activity>
 <Activity>
@@ -1382,20 +1382,20 @@
 </Activity>
 <Activity>
 	<Id>243</Id>
-	<Day>Friday</Day>
-	<Hour>11:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>13:10</Hour>
 	<Room>三乙</Room>
 </Activity>
 <Activity>
 	<Id>244</Id>
-	<Day>Wednesday</Day>
+	<Day>Thursday</Day>
 	<Hour>13:10</Hour>
 	<Room>二甲</Room>
 </Activity>
 <Activity>
 	<Id>245</Id>
 	<Day>Thursday</Day>
-	<Hour>13:10</Hour>
+	<Hour>15:10</Hour>
 	<Room>二乙</Room>
 </Activity>
 <Activity>
@@ -1406,19 +1406,19 @@
 </Activity>
 <Activity>
 	<Id>247</Id>
-	<Day>Thursday</Day>
-	<Hour>15:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>09:00</Hour>
 	<Room>中四</Room>
 </Activity>
 <Activity>
 	<Id>248</Id>
-	<Day>Friday</Day>
-	<Hour>15:10</Hour>
+	<Day>Tuesday</Day>
+	<Hour>13:10</Hour>
 	<Room>中五</Room>
 </Activity>
 <Activity>
 	<Id>249</Id>
-	<Day>Thursday</Day>
+	<Day>Wednesday</Day>
 	<Hour>13:10</Hour>
 	<Room>中六</Room>
 </Activity>
@@ -1430,8 +1430,20 @@
 </Activity>
 <Activity>
 	<Id>251</Id>
-	<Day>Friday</Day>
+	<Day>Thursday</Day>
 	<Hour>13:10</Hour>
 	<Room>中六</Room>
+</Activity>
+<Activity>
+	<Id>252</Id>
+	<Day>Wednesday</Day>
+	<Hour>10:00</Hour>
+	<Room>一甲</Room>
+</Activity>
+<Activity>
+	<Id>253</Id>
+	<Day>Friday</Day>
+	<Hour>11:00</Hour>
+	<Room>一乙</Room>
 </Activity>
 </Activities_Timetable>
