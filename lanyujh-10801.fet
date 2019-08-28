@@ -788,7 +788,7 @@
 <Activity>
 	<Teacher>謝美娟</Teacher>
 	<Subject>國文</Subject>
-	<Students>二乙</Students>
+	<Students>二甲</Students>
 	<Duration>2</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>279</Id>
@@ -799,7 +799,7 @@
 <Activity>
 	<Teacher>謝美娟</Teacher>
 	<Subject>國文</Subject>
-	<Students>二乙</Students>
+	<Students>二甲</Students>
 	<Duration>1</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>280</Id>
@@ -810,7 +810,7 @@
 <Activity>
 	<Teacher>謝美娟</Teacher>
 	<Subject>國文</Subject>
-	<Students>二乙</Students>
+	<Students>二甲</Students>
 	<Duration>1</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>281</Id>
@@ -821,7 +821,7 @@
 <Activity>
 	<Teacher>謝美娟</Teacher>
 	<Subject>國文</Subject>
-	<Students>二乙</Students>
+	<Students>二甲</Students>
 	<Duration>1</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>282</Id>
@@ -887,7 +887,7 @@
 <Activity>
 	<Teacher>王靜儀</Teacher>
 	<Subject>國文</Subject>
-	<Students>二甲</Students>
+	<Students>二乙</Students>
 	<Duration>2</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>288</Id>
@@ -898,7 +898,7 @@
 <Activity>
 	<Teacher>王靜儀</Teacher>
 	<Subject>國文</Subject>
-	<Students>二甲</Students>
+	<Students>二乙</Students>
 	<Duration>1</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>289</Id>
@@ -909,7 +909,7 @@
 <Activity>
 	<Teacher>王靜儀</Teacher>
 	<Subject>國文</Subject>
-	<Students>二甲</Students>
+	<Students>二乙</Students>
 	<Duration>1</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>290</Id>
@@ -920,7 +920,7 @@
 <Activity>
 	<Teacher>王靜儀</Teacher>
 	<Subject>國文</Subject>
-	<Students>二甲</Students>
+	<Students>二乙</Students>
 	<Duration>1</Duration>
 	<Total_Duration>5</Total_Duration>
 	<Id>291</Id>
@@ -1061,8 +1061,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>吳崇岳</Teacher>
 	<Teacher>黃沛綺</Teacher>
+	<Teacher>劉俞伶</Teacher>
 	<Subject>數學</Subject>
 	<Students>三乙</Students>
 	<Duration>1</Duration>
@@ -1073,8 +1073,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>吳崇岳</Teacher>
 	<Teacher>黃沛綺</Teacher>
+	<Teacher>劉俞伶</Teacher>
 	<Subject>數學</Subject>
 	<Students>三乙</Students>
 	<Duration>1</Duration>
@@ -1085,8 +1085,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>吳崇岳</Teacher>
 	<Teacher>黃沛綺</Teacher>
+	<Teacher>劉俞伶</Teacher>
 	<Subject>數學</Subject>
 	<Students>三乙</Students>
 	<Duration>1</Duration>
@@ -1097,8 +1097,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>吳崇岳</Teacher>
 	<Teacher>黃沛綺</Teacher>
+	<Teacher>劉俞伶</Teacher>
 	<Subject>數學</Subject>
 	<Students>三乙</Students>
 	<Duration>1</Duration>
@@ -1197,7 +1197,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>劉俞伶</Teacher>
+	<Teacher>吳崇岳</Teacher>
 	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>三甲</Students>
@@ -1209,7 +1209,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>劉俞伶</Teacher>
+	<Teacher>吳崇岳</Teacher>
 	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>三甲</Students>
@@ -1221,7 +1221,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>劉俞伶</Teacher>
+	<Teacher>吳崇岳</Teacher>
 	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>三甲</Students>
@@ -1233,7 +1233,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>劉俞伶</Teacher>
+	<Teacher>吳崇岳</Teacher>
 	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>三甲</Students>
@@ -3787,7 +3787,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>司秀梅</Teacher>
-	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>10:00</Hour>
@@ -3795,14 +3795,6 @@
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>11:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>13:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>14:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Wednesday</Day>
@@ -4491,7 +4483,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>許書齊</Teacher>
-	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>09:00</Hour>
@@ -4501,16 +4493,8 @@
 		<Hour>10:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>13:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Tuesday</Day>
+		<Day>Thursday</Day>
 		<Hour>14:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Wednesday</Day>
-		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -4751,15 +4735,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>357</Activity_Id>
-	<Preferred_Day>Monday</Preferred_Day>
-	<Preferred_Hour>08:00</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>478</Activity_Id>
 	<Preferred_Day>Monday</Preferred_Day>
 	<Preferred_Hour>08:00</Preferred_Hour>
@@ -4770,24 +4745,6 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>501</Activity_Id>
-	<Preferred_Day>Monday</Preferred_Day>
-	<Preferred_Hour>08:00</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>382</Activity_Id>
-	<Preferred_Day>Monday</Preferred_Day>
-	<Preferred_Hour>08:00</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>275</Activity_Id>
 	<Preferred_Day>Monday</Preferred_Day>
 	<Preferred_Hour>08:00</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
@@ -5427,14 +5384,6 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMinHoursDaily>
-<ConstraintTeacherMinHoursDaily>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher_Name>林禹彤</Teacher_Name>
-	<Minimum_Hours_Daily>2</Minimum_Hours_Daily>
-	<Allow_Empty_Days>true</Allow_Empty_Days>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherMinHoursDaily>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>392</Activity_Id>
@@ -5515,11 +5464,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>江柏顥</Teacher>
-	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>13:10</Hour>
@@ -5529,12 +5474,12 @@
 		<Hour>14:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Wednesday</Day>
+		<Day>Friday</Day>
 		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Thursday</Day>
-		<Hour>08:00</Hour>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -5581,17 +5526,21 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>王靜儀</Teacher>
-	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Monday</Day>
 		<Hour>13:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
-		<Hour>08:00</Hour>
+		<Hour>13:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Wednesday</Day>
+		<Day>Thursday</Day>
 		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
@@ -5677,10 +5626,50 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>董蘭英</Teacher>
-	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>14</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:10</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Thursday</Day>
 		<Hour>14:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Friday</Day>
@@ -5700,15 +5689,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>黃俊儒</Teacher>
-	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Monday</Day>
-		<Hour>13:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Thursday</Day>
-		<Hour>15:10</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>
@@ -5740,7 +5721,19 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>林桓妃</Teacher>
-	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>13:10</Hour>
@@ -5763,46 +5756,10 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMinDaysPerWeek>
-<ConstraintTeacherMinHoursDaily>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher_Name>張誠芳</Teacher_Name>
-	<Minimum_Hours_Daily>2</Minimum_Hours_Daily>
-	<Allow_Empty_Days>true</Allow_Empty_Days>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherMinHoursDaily>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>劉銘婠</Teacher>
-	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Thursday</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Friday</Day>
-		<Hour>13:10</Hour>
-	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherNotAvailableTimes>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>415</Activity_Id>
-	<Preferred_Day>Wednesday</Preferred_Day>
-	<Preferred_Hour>08:00</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintTeacherNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>王恩竹</Teacher>
-	<Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Monday</Day>
 		<Hour>13:10</Hour>
@@ -5810,6 +5767,29 @@
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:10</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>王恩竹</Teacher>
+	<Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
@@ -5820,16 +5800,16 @@
 		<Hour>11:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>13:10</Hour>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Tuesday</Day>
-		<Hour>14:10</Hour>
+		<Day>Thursday</Day>
+		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Friday</Day>
-		<Hour>08:00</Hour>
+		<Hour>13:10</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -5851,15 +5831,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>謝美娟</Teacher>
-	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Wednesday</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Thursday</Day>
-		<Hour>08:00</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Friday</Day>
 		<Hour>13:10</Hour>
@@ -5874,21 +5846,17 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>劉俞伶</Teacher>
-	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Monday</Day>
-		<Hour>13:10</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
-		<Hour>13:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Thursday</Day>
 		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
-		<Day>Friday</Day>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
 		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
@@ -5933,14 +5901,6 @@
 <ConstraintTeacherMinHoursDaily>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>劉峰福</Teacher_Name>
-	<Minimum_Hours_Daily>2</Minimum_Hours_Daily>
-	<Allow_Empty_Days>true</Allow_Empty_Days>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherMinHoursDaily>
-<ConstraintTeacherMinHoursDaily>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher_Name>劉銘婠</Teacher_Name>
 	<Minimum_Hours_Daily>2</Minimum_Hours_Daily>
 	<Allow_Empty_Days>true</Allow_Empty_Days>
 	<Active>true</Active>
@@ -6043,6 +6003,139 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>陳惠玲</Teacher_Name>
 	<Minimum_Days_Per_Week>4</Minimum_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMinDaysPerWeek>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>382</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>383</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>384</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>385</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>364</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>365</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>366</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>367</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>317</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>林禹彤</Teacher>
+	<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:10</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>284</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>江柏顥</Teacher_Name>
+	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxHoursContinuously>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>500</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>274</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherMinDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>鐘楚紅</Teacher_Name>
+	<Minimum_Days_Per_Week>5</Minimum_Days_Per_Week>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherMinDaysPerWeek>
@@ -6155,7 +6248,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>304</Activity_Id>
-	<Room>圖書館</Room>
+	<Room>電腦教室</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6163,7 +6256,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>305</Activity_Id>
-	<Room>圖書館</Room>
+	<Room>電腦教室</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6171,7 +6264,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>306</Activity_Id>
-	<Room>圖書館</Room>
+	<Room>電腦教室</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6179,7 +6272,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>307</Activity_Id>
-	<Room>圖書館</Room>
+	<Room>電腦教室</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6331,7 +6424,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>317</Activity_Id>
-	<Room>電腦教室</Room>
+	<Room>圖書館</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6339,7 +6432,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>318</Activity_Id>
-	<Room>電腦教室</Room>
+	<Room>圖書館</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6347,7 +6440,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>319</Activity_Id>
-	<Room>電腦教室</Room>
+	<Room>圖書館</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6355,7 +6448,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>320</Activity_Id>
-	<Room>電腦教室</Room>
+	<Room>圖書館</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
