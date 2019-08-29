@@ -1355,6 +1355,7 @@
 <Activity>
 	<Teacher>江柏顥</Teacher>
 	<Teacher>林心瑜</Teacher>
+	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>二甲</Students>
 	<Duration>1</Duration>
@@ -1367,6 +1368,7 @@
 <Activity>
 	<Teacher>江柏顥</Teacher>
 	<Teacher>林心瑜</Teacher>
+	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>二甲</Students>
 	<Duration>1</Duration>
@@ -1379,6 +1381,7 @@
 <Activity>
 	<Teacher>江柏顥</Teacher>
 	<Teacher>林心瑜</Teacher>
+	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>二甲</Students>
 	<Duration>1</Duration>
@@ -1391,6 +1394,7 @@
 <Activity>
 	<Teacher>江柏顥</Teacher>
 	<Teacher>林心瑜</Teacher>
+	<Teacher>賴仲軒</Teacher>
 	<Subject>數學</Subject>
 	<Students>二甲</Students>
 	<Duration>1</Duration>
@@ -5491,7 +5495,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>江柏顥</Teacher>
-	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>13:10</Hour>
@@ -5499,10 +5503,6 @@
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>14:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Friday</Day>
-		<Hour>08:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Friday</Day>
@@ -6556,54 +6556,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>351</Activity_Id>
 	<Room>自然實驗室</Room>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>329</Activity_Id>
-	<Room>圖書館</Room>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>330</Activity_Id>
-	<Room>圖書館</Room>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>321</Activity_Id>
-	<Room>圖書館</Room>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>322</Activity_Id>
-	<Room>圖書館</Room>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>323</Activity_Id>
-	<Room>圖書館</Room>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>324</Activity_Id>
-	<Room>圖書館</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
