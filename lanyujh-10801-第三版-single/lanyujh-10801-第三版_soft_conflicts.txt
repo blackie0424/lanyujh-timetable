@@ -1,0 +1,10 @@
+﻿Soft conflicts of lanyujh-10801-第三版.fet
+Generated with FET 5.39.0 on 9/8/19 3:05 AM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
