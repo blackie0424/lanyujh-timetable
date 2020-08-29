@@ -1,0 +1,6059 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.46.0">
+
+<Institution_Name>蘭嶼高級中學10901</Institution_Name>
+
+<Comments>蘭嶼高中108學年度第一學期課表</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+</Day>
+<Day>
+	<Name>Friday</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>8</Number_of_Hours>
+<Hour>
+	<Name>08:00</Name>
+</Hour>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:10</Name>
+</Hour>
+<Hour>
+	<Name>14:10</Name>
+</Hour>
+<Hour>
+	<Name>15:10</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>數學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>資訊科技</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>應用文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>英語</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>餐旅英文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>自然</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>生活科技</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>地理</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>歷史</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>公民</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>健體（健）</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>健體（體）</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>藝文（藝）</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國一自主學習</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國一TAO人文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國一TAO美學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國一TAO探索</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高一自主學習</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高一TAO人文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高一TAO探索</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高一TAO美學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>綜合（綜）</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>雅美語</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>生涯規劃</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>生物</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>全民國防</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>護理</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>雅美文化概論</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國際禮儀</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>餐飲服務技術</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>觀光餐旅業導論</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>飲料實務</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>點心製作</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>中餐烹飪</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>專題製作</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>生命教育</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>觀光概論</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>蘭嶼自然生態</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>烘焙</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>西餐</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>旅館房務實習</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>綜合</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國二自主學習</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國二TAO探索</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國二TAO人文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國二TAO美學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高二TAO探索</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高二TAO人文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高二TAO美學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>高二自主學習</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>英語文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>英文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國三達悟人文</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國三達悟探索</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國三達悟美學</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>國三自主學習</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>飲食文化</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>雅美創客</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>遊程規劃</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>餐旅服務</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>彈性</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>吳崇岳</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>劉俞伶</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>賴仲軒</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>曾如</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>司秀梅</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>劉銘婠</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>林桓妃</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>楊惠閔</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>江彩怡</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>林心瑜</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>謝美娟</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>陳淑貞</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>陳惠玲</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>謝銘昇</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>黃聖珆</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>董蘭英</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>黃沛綺</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>林亦珺</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>廖嶼寧</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>劉峰福</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>許書齊</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>劉康文</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>鐘楚紅</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>紀佳安</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>黃蘭新</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>潘俞君</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>張智凱</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>林子綺</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>張凱堯</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>蔡幸儒</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>張幗英</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>廖思涵</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>國一</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>一甲</Name>
+		<Number_of_Students>14</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>一乙</Name>
+		<Number_of_Students>14</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>國二</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>二甲</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>二乙</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>國三</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>三甲</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>三乙</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>高一</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>中四</Name>
+		<Number_of_Students>16</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>高二</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>中五</Name>
+		<Number_of_Students>23</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>高三</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>中六</Name>
+		<Number_of_Students>22</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>歷史</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>歷史</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>歷史</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>歷史</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>歷史</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>歷史</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>公民</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>公民</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>公民</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>公民</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>公民</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉銘婠</Teacher>
+	<Subject>公民</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>點心製作</Subject>
+	<Students>中五</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>36</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>餐旅服務</Subject>
+	<Students>中六</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>39</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>旅館房務實習</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>40</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>專題製作</Subject>
+	<Students>中六</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>41</Id>
+	<Activity_Group_Id>41</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>專題製作</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>42</Id>
+	<Activity_Group_Id>41</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>國文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>43</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>國文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>44</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>國文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>45</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>應用文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>46</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>自然</Subject>
+	<Students>一甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>52</Id>
+	<Activity_Group_Id>52</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>自然</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>53</Id>
+	<Activity_Group_Id>52</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>自然</Subject>
+	<Students>一乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>54</Id>
+	<Activity_Group_Id>54</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>自然</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>55</Id>
+	<Activity_Group_Id>54</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>蘭嶼自然生態</Subject>
+	<Students>中六</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>56</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>生物</Subject>
+	<Students>中四</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>57</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳惠玲</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>58</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳惠玲</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>59</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳惠玲</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>60</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝銘昇</Teacher>
+	<Subject>全民國防</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>61</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>雅美語</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>62</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>高一TAO人文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>63</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>高二TAO人文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>64</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>66</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>67</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>68</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>69</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>70</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>71</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>國文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>72</Id>
+	<Activity_Group_Id>72</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>國文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>73</Id>
+	<Activity_Group_Id>72</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>國文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>74</Id>
+	<Activity_Group_Id>72</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>國文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>75</Id>
+	<Activity_Group_Id>75</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>國文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>76</Id>
+	<Activity_Group_Id>75</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>國文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>77</Id>
+	<Activity_Group_Id>75</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>高一自主學習</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>78</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>許書齊</Teacher>
+	<Subject>高二TAO人文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>79</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>高一TAO美學</Subject>
+	<Students>中四</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>80</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>國一TAO美學</Subject>
+	<Students>一乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>81</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>國一TAO美學</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>82</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>國二TAO美學</Subject>
+	<Students>二乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>83</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>國二TAO美學</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>84</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>國三達悟美學</Subject>
+	<Students>三乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>85</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>國三達悟美學</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>86</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>西餐</Subject>
+	<Students>中六</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>93</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖思涵</Teacher>
+	<Subject>護理</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>99</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>國一TAO人文</Subject>
+	<Students>一甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>112</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>國二TAO人文</Subject>
+	<Students>二甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>113</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>江彩怡</Teacher>
+	<Subject>國三達悟美學</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>114</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>地理</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>117</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>地理</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>128</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>地理</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>129</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>地理</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>130</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>131</Id>
+	<Activity_Group_Id>131</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>132</Id>
+	<Activity_Group_Id>131</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>133</Id>
+	<Activity_Group_Id>131</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>數學</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>134</Id>
+	<Activity_Group_Id>131</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>國一自主學習</Subject>
+	<Students>一甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>135</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉俞伶</Teacher>
+	<Subject>國二TAO探索</Subject>
+	<Students>二甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>136</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>137</Id>
+	<Activity_Group_Id>137</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>138</Id>
+	<Activity_Group_Id>137</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>139</Id>
+	<Activity_Group_Id>137</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>數學</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>140</Id>
+	<Activity_Group_Id>137</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>國三達悟人文</Subject>
+	<Students>三甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>141</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>國三達悟探索</Subject>
+	<Students>三甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>142</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>國一自主學習</Subject>
+	<Students>一乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>143</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>國二自主學習</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>144</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>吳崇岳</Teacher>
+	<Subject>國三自主學習</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>145</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>146</Id>
+	<Activity_Group_Id>146</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>147</Id>
+	<Activity_Group_Id>146</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>148</Id>
+	<Activity_Group_Id>146</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>149</Id>
+	<Activity_Group_Id>146</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>150</Id>
+	<Activity_Group_Id>150</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>151</Id>
+	<Activity_Group_Id>150</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>152</Id>
+	<Activity_Group_Id>150</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>153</Id>
+	<Activity_Group_Id>150</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>154</Id>
+	<Activity_Group_Id>154</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>155</Id>
+	<Activity_Group_Id>154</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>156</Id>
+	<Activity_Group_Id>154</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>數學</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>157</Id>
+	<Activity_Group_Id>154</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>國二TAO美學</Subject>
+	<Students>二甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>158</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張智凱</Teacher>
+	<Subject>國一TAO探索</Subject>
+	<Students>一甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>159</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>英文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>160</Id>
+	<Activity_Group_Id>160</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>英文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>161</Id>
+	<Activity_Group_Id>160</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>英文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>162</Id>
+	<Activity_Group_Id>160</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>英文</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>163</Id>
+	<Activity_Group_Id>160</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>生命教育</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>176</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>高一TAO探索</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>177</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>高二自主學習</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>178</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>高二TAO人文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>179</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>180</Id>
+	<Activity_Group_Id>180</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>181</Id>
+	<Activity_Group_Id>180</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>182</Id>
+	<Activity_Group_Id>180</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>183</Id>
+	<Activity_Group_Id>183</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>184</Id>
+	<Activity_Group_Id>183</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>185</Id>
+	<Activity_Group_Id>183</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>186</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>187</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>188</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>189</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>190</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>英語</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>191</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>國三自主學習</Subject>
+	<Students>三甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>192</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉峰福</Teacher>
+	<Subject>國一TAO探索</Subject>
+	<Students>一乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>193</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>英語</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>194</Id>
+	<Activity_Group_Id>194</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>英語</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>195</Id>
+	<Activity_Group_Id>194</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>英語</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>196</Id>
+	<Activity_Group_Id>194</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>英語</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>197</Id>
+	<Activity_Group_Id>197</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>英語</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>198</Id>
+	<Activity_Group_Id>197</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>英語</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>199</Id>
+	<Activity_Group_Id>197</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>餐旅英文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>200</Id>
+	<Activity_Group_Id>200</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>餐旅英文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>201</Id>
+	<Activity_Group_Id>200</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>餐旅英文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>202</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>國二自主學習</Subject>
+	<Students>二甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>203</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>餐旅英文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>204</Id>
+	<Activity_Group_Id>204</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林子綺</Teacher>
+	<Subject>餐旅英文</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>205</Id>
+	<Activity_Group_Id>204</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>自然</Subject>
+	<Students>二乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>206</Id>
+	<Activity_Group_Id>206</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>自然</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>207</Id>
+	<Activity_Group_Id>206</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>自然</Subject>
+	<Students>二甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>208</Id>
+	<Activity_Group_Id>208</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>自然</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>209</Id>
+	<Activity_Group_Id>208</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>自然</Subject>
+	<Students>三甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>210</Id>
+	<Activity_Group_Id>210</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>自然</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>211</Id>
+	<Activity_Group_Id>210</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>自然</Subject>
+	<Students>三乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>212</Id>
+	<Activity_Group_Id>212</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>自然</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>213</Id>
+	<Activity_Group_Id>212</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>劉康文</Teacher>
+	<Subject>國三達悟探索</Subject>
+	<Students>三乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>214</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>鐘楚紅</Teacher>
+	<Subject>地理</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>215</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>鐘楚紅</Teacher>
+	<Subject>地理</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>216</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>鐘楚紅</Teacher>
+	<Subject>歷史</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>217</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>鐘楚紅</Teacher>
+	<Subject>高一TAO人文</Subject>
+	<Students>中四</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>218</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>鐘楚紅</Teacher>
+	<Subject>高二TAO探索</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>219</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>曾如</Teacher>
+	<Subject>國二TAO人文</Subject>
+	<Students>二乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>220</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>曾如</Teacher>
+	<Subject>國三達悟人文</Subject>
+	<Students>三乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>221</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>曾如</Teacher>
+	<Subject>國一TAO美學</Subject>
+	<Students>一甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>222</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>觀光餐旅業導論</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>223</Id>
+	<Activity_Group_Id>223</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>觀光餐旅業導論</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>224</Id>
+	<Activity_Group_Id>223</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>高二TAO探索</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>225</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>國二TAO探索</Subject>
+	<Students>二乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>226</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳惠玲</Teacher>
+	<Subject>國一TAO探索</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>227</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳惠玲</Teacher>
+	<Subject>國一TAO探索</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>228</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>陳惠玲</Teacher>
+	<Subject>高一TAO探索</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>229</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>國二TAO探索</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>230</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>國二TAO探索</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>231</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>國三達悟探索</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>232</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>國三達悟探索</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>233</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>高二TAO探索</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>234</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>健體（體）</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>235</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>廖嶼寧</Teacher>
+	<Subject>國三達悟美學</Subject>
+	<Students>三甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>236</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>紀佳安</Teacher>
+	<Subject>高二TAO美學</Subject>
+	<Students>中五</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>237</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>生活科技</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>238</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>生活科技</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>239</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>生活科技</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>240</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>生活科技</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>241</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>生活科技</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>242</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>生活科技</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>243</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>國一自主學習</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>244</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>國一自主學習</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>245</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>國二自主學習</Subject>
+	<Students>二乙</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>247</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>國三自主學習</Subject>
+	<Students>三乙</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>248</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張凱堯</Teacher>
+	<Subject>高一自主學習</Subject>
+	<Students>中四</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>249</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>觀光概論</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>250</Id>
+	<Activity_Group_Id>250</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>觀光概論</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>251</Id>
+	<Activity_Group_Id>250</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>餐飲服務技術</Subject>
+	<Students>中五</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>252</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>高二自主學習</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>253</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>國際禮儀</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>254</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>高一TAO美學</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>255</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林桓妃</Teacher>
+	<Subject>生涯規劃</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>256</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林桓妃</Teacher>
+	<Subject>高一TAO探索</Subject>
+	<Students>中四</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>257</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林桓妃</Teacher>
+	<Subject>飲料實務</Subject>
+	<Students>中五</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>258</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林桓妃</Teacher>
+	<Subject>高二TAO美學</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>259</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>飲食文化</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>260</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>高二自主學習</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>261</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林心瑜</Teacher>
+	<Subject>國一TAO人文</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>262</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林心瑜</Teacher>
+	<Subject>國一TAO人文</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>263</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>潘俞君</Teacher>
+	<Subject>國一TAO美學</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>264</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>國一TAO人文</Subject>
+	<Students>一乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>265</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>國二TAO人文</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>266</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>國二TAO人文</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>267</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>國三達悟人文</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>268</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>董蘭英</Teacher>
+	<Subject>國三達悟人文</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>269</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>潘俞君</Teacher>
+	<Subject>國二TAO美學</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>270</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>一乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>271</Id>
+	<Activity_Group_Id>271</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>272</Id>
+	<Activity_Group_Id>271</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>273</Id>
+	<Activity_Group_Id>271</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>一乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>274</Id>
+	<Activity_Group_Id>271</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>二乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>275</Id>
+	<Activity_Group_Id>275</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>276</Id>
+	<Activity_Group_Id>275</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>277</Id>
+	<Activity_Group_Id>275</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>二乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>278</Id>
+	<Activity_Group_Id>275</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>二甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>279</Id>
+	<Activity_Group_Id>279</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>280</Id>
+	<Activity_Group_Id>279</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>281</Id>
+	<Activity_Group_Id>279</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>二甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>282</Id>
+	<Activity_Group_Id>279</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>三甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>283</Id>
+	<Activity_Group_Id>283</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>284</Id>
+	<Activity_Group_Id>283</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>285</Id>
+	<Activity_Group_Id>283</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>謝美娟</Teacher>
+	<Subject>國文</Subject>
+	<Students>三甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>286</Id>
+	<Activity_Group_Id>283</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>三乙</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>287</Id>
+	<Activity_Group_Id>287</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>288</Id>
+	<Activity_Group_Id>287</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>289</Id>
+	<Activity_Group_Id>287</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>張幗英</Teacher>
+	<Subject>國文</Subject>
+	<Students>三乙</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>290</Id>
+	<Activity_Group_Id>287</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>一甲</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>291</Id>
+	<Activity_Group_Id>291</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>292</Id>
+	<Activity_Group_Id>291</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>293</Id>
+	<Activity_Group_Id>291</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>黃蘭新</Teacher>
+	<Subject>國文</Subject>
+	<Students>一甲</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>294</Id>
+	<Activity_Group_Id>291</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林桓妃</Teacher>
+	<Subject>遊程規劃</Subject>
+	<Students>中六</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>295</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>彈性</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>296</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>烘焙</Subject>
+	<Students>中六</Students>
+	<Duration>3</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>297</Id>
+	<Activity_Group_Id>297</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>林亦珺</Teacher>
+	<Subject>烘焙</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>298</Id>
+	<Activity_Group_Id>297</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>中餐烹飪</Subject>
+	<Students>中五</Students>
+	<Duration>3</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>299</Id>
+	<Activity_Group_Id>299</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>蔡幸儒</Teacher>
+	<Subject>中餐烹飪</Subject>
+	<Students>中五</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>300</Id>
+	<Activity_Group_Id>299</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>教學大樓</Name>
+	<Comments></Comments>
+</Building>
+<Building>
+	<Name>專科教室</Name>
+	<Comments></Comments>
+</Building>
+<Building>
+	<Name>實習工廠</Name>
+	<Comments></Comments>
+</Building>
+<Building>
+	<Name>活動中心</Name>
+	<Comments></Comments>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>一甲</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>一乙</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>二甲</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>二乙</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>三甲</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>三乙</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中四</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中五</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中六</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>圖書館</Name>
+	<Building>專科教室</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>飲調教室</Name>
+	<Building>實習工廠</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>烘焙教室</Name>
+	<Building>實習工廠</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>中餐教室</Name>
+	<Building>實習工廠</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>餐服教室</Name>
+	<Building>實習工廠</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>音樂教室</Name>
+	<Building>活動中心</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>藝文教室</Name>
+	<Building>活動中心</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>電腦教室</Name>
+	<Building>教學大樓</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>自然實驗室</Name>
+	<Building>專科教室</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>室內運動場</Name>
+	<Building>活動中心</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>國際禮儀教室</Name>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>生活科技教室</Name>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>原民中心</Name>
+	<Building>活動中心</Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintBreakTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Break_Times>8</Number_of_Break_Times>
+	<Break_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:10</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:10</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:10</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBreakTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>高一</Students>
+	<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>高二</Students>
+	<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>高三</Students>
+	<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>1</Activity_Id>
+	<Activity_Id>2</Activity_Id>
+	<Activity_Id>3</Activity_Id>
+	<Activity_Id>4</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>5</Activity_Id>
+	<Activity_Id>6</Activity_Id>
+	<Activity_Id>7</Activity_Id>
+	<Activity_Id>8</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>41</Activity_Id>
+	<Activity_Id>42</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>43</Activity_Id>
+	<Activity_Id>44</Activity_Id>
+	<Activity_Id>45</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>52</Activity_Id>
+	<Activity_Id>53</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>54</Activity_Id>
+	<Activity_Id>55</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>72</Activity_Id>
+	<Activity_Id>73</Activity_Id>
+	<Activity_Id>74</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>75</Activity_Id>
+	<Activity_Id>76</Activity_Id>
+	<Activity_Id>77</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>53</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>75</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>93</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>64</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>79</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>131</Activity_Id>
+	<Activity_Id>132</Activity_Id>
+	<Activity_Id>133</Activity_Id>
+	<Activity_Id>134</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>137</Activity_Id>
+	<Activity_Id>138</Activity_Id>
+	<Activity_Id>139</Activity_Id>
+	<Activity_Id>140</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>146</Activity_Id>
+	<Activity_Id>147</Activity_Id>
+	<Activity_Id>148</Activity_Id>
+	<Activity_Id>149</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>150</Activity_Id>
+	<Activity_Id>151</Activity_Id>
+	<Activity_Id>152</Activity_Id>
+	<Activity_Id>153</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>154</Activity_Id>
+	<Activity_Id>155</Activity_Id>
+	<Activity_Id>156</Activity_Id>
+	<Activity_Id>157</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>160</Activity_Id>
+	<Activity_Id>161</Activity_Id>
+	<Activity_Id>162</Activity_Id>
+	<Activity_Id>163</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>180</Activity_Id>
+	<Activity_Id>181</Activity_Id>
+	<Activity_Id>182</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>183</Activity_Id>
+	<Activity_Id>184</Activity_Id>
+	<Activity_Id>185</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>186</Activity_Id>
+	<Activity_Id>187</Activity_Id>
+	<Activity_Id>188</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>189</Activity_Id>
+	<Activity_Id>190</Activity_Id>
+	<Activity_Id>191</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>194</Activity_Id>
+	<Activity_Id>195</Activity_Id>
+	<Activity_Id>196</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>197</Activity_Id>
+	<Activity_Id>198</Activity_Id>
+	<Activity_Id>199</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>200</Activity_Id>
+	<Activity_Id>201</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>204</Activity_Id>
+	<Activity_Id>205</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>206</Activity_Id>
+	<Activity_Id>207</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>208</Activity_Id>
+	<Activity_Id>209</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>210</Activity_Id>
+	<Activity_Id>211</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>212</Activity_Id>
+	<Activity_Id>213</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>223</Activity_Id>
+	<Activity_Id>224</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>250</Activity_Id>
+	<Activity_Id>251</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>260</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>135</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>244</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>143</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>245</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>82</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>222</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>264</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>112</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>262</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>263</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>265</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>159</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>227</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>193</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>228</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>247</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>203</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>144</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>83</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>270</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>158</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>84</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>266</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>113</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>220</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>267</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>86</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>114</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>236</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>248</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>145</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>192</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>141</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>268</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>221</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>269</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>142</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>232</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>214</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>233</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>271</Activity_Id>
+	<Activity_Id>272</Activity_Id>
+	<Activity_Id>273</Activity_Id>
+	<Activity_Id>274</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>275</Activity_Id>
+	<Activity_Id>276</Activity_Id>
+	<Activity_Id>277</Activity_Id>
+	<Activity_Id>278</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>279</Activity_Id>
+	<Activity_Id>280</Activity_Id>
+	<Activity_Id>281</Activity_Id>
+	<Activity_Id>282</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>283</Activity_Id>
+	<Activity_Id>284</Activity_Id>
+	<Activity_Id>285</Activity_Id>
+	<Activity_Id>286</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>287</Activity_Id>
+	<Activity_Id>288</Activity_Id>
+	<Activity_Id>289</Activity_Id>
+	<Activity_Id>290</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>291</Activity_Id>
+	<Activity_Id>292</Activity_Id>
+	<Activity_Id>293</Activity_Id>
+	<Activity_Id>294</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>218</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>63</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>177</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>229</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>257</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>249</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>80</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>255</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>234</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>225</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>219</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>179</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>237</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>259</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>178</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>253</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>261</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>296</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>295</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>235</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>250</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>46</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>62</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>176</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>137</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>136</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>226</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>230</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>231</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>138</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>139</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>140</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>160</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>297</Activity_Id>
+	<Activity_Id>298</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>297</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>299</Activity_Id>
+	<Activity_Id>300</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>299</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>131</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>132</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>133</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>134</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>6</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>150</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>151</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>152</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>153</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>146</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>147</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>148</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>149</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>154</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>155</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>156</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>157</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>161</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>162</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>163</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>201</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>202</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>197</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>198</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>199</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>194</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>195</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>196</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>204</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>205</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>183</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>184</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>185</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>180</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>181</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>182</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>186</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>187</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>188</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>189</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>190</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>191</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>44</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>45</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>76</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>77</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>72</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>74</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>271</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>272</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>273</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>274</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>284</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>283</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>285</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>286</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>288</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>289</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>290</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>287</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>276</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>275</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>277</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>278</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>280</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>129</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>281</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>282</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>279</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>292</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>293</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>291</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>294</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>117</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>130</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>128</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>52</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>55</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>56</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>206</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>207</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>57</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>211</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>210</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>212</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>213</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>208</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>209</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>59</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>58</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>68</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>69</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>67</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>70</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>256</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>258</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>300</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>254</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>251</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>252</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>223</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>298</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>224</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>216</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>14:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>215</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>217</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>61</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>241</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>238</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>243</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>240</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>242</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:10</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>239</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>08:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>專題製作</Subject>
+	<Room>電腦教室</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>飲料實務</Subject>
+	<Room>飲調教室</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>點心製作</Subject>
+	<Room>烘焙教室</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>烘焙</Subject>
+	<Room>烘焙教室</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>西餐</Subject>
+	<Room>中餐教室</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>中餐烹飪</Subject>
+	<Room>中餐教室</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>健體（體）</Subject>
+	<Room>室內運動場</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Room>烘焙教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Room>電腦教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Room>電腦教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>58</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>59</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>67</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>68</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>69</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>70</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>93</Activity_Id>
+	<Room>中餐教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>235</Activity_Id>
+	<Room>室內運動場</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>258</Activity_Id>
+	<Room>飲調教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>297</Activity_Id>
+	<Room>烘焙教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>298</Activity_Id>
+	<Room>烘焙教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>299</Activity_Id>
+	<Room>中餐教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>300</Activity_Id>
+	<Room>中餐教室</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+
+</fet>
