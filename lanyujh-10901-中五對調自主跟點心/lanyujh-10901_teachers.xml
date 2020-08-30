@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Teachers_Timetable>
   <Teacher name="吳崇岳">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="中四"></Students>
     </Hour>
@@ -27,7 +27,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="中四"></Students>
     </Hour>
@@ -53,7 +53,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="一甲"></Students>
     </Hour>
@@ -79,7 +79,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="中四"></Students>
     </Hour>
@@ -105,7 +105,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="中四"></Students>
     </Hour>
@@ -133,7 +133,7 @@
    </Day>
   </Teacher>
   <Teacher name="劉俞伶">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="二甲"></Students>
     </Hour>
@@ -159,7 +159,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="三乙"></Students>
     </Hour>
@@ -185,7 +185,7 @@
      <Subject name="國一自主學習"></Subject><Students name="一甲"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -211,7 +211,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -237,7 +237,7 @@
      <Subject name="國二TAO探索"></Subject><Students name="二甲"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="三乙"></Students>
     </Hour>
@@ -265,7 +265,7 @@
    </Day>
   </Teacher>
   <Teacher name="賴仲軒">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -291,7 +291,7 @@
      <Subject name="國一TAO美學"></Subject><Students name="一乙"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -317,7 +317,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -343,7 +343,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -369,7 +369,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -397,7 +397,7 @@
    </Day>
   </Teacher>
   <Teacher name="曾如">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -423,7 +423,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -449,7 +449,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -475,7 +475,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -501,7 +501,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -529,7 +529,7 @@
    </Day>
   </Teacher>
   <Teacher name="司秀梅">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -555,7 +555,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -581,7 +581,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -607,7 +607,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -633,7 +633,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -661,7 +661,7 @@
    </Day>
   </Teacher>
   <Teacher name="劉銘婠">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="歷史"></Subject><Students name="三乙"></Students>
     </Hour>
@@ -687,7 +687,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="公民"></Subject><Students name="一甲"></Students>
     </Hour>
@@ -713,7 +713,7 @@
      <Subject name="歷史"></Subject><Students name="二甲"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -739,7 +739,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="歷史"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -765,7 +765,7 @@
      <Subject name="公民"></Subject><Students name="三甲"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="歷史"></Subject><Students name="一甲"></Students>
     </Hour>
@@ -793,7 +793,7 @@
    </Day>
   </Teacher>
   <Teacher name="林桓妃">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -819,7 +819,7 @@
      <Subject name="高一TAO探索"></Subject><Students name="中四"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -845,7 +845,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -871,7 +871,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -897,7 +897,7 @@
      <Subject name="飲料實務"></Subject><Students name="中五"></Students><Room name="飲調教室"></Room>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -925,7 +925,7 @@
    </Day>
   </Teacher>
   <Teacher name="楊惠閔">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -951,7 +951,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -977,7 +977,7 @@
      <Subject name="旅館房務實習"></Subject><Students name="中六"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -1003,7 +1003,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1029,7 +1029,7 @@
      <Subject name="餐旅服務"></Subject><Students name="中六"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -1057,7 +1057,7 @@
    </Day>
   </Teacher>
   <Teacher name="江彩怡">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="中六"></Students>
     </Hour>
@@ -1083,7 +1083,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -1109,7 +1109,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="班會"></Subject><Students name="中六"></Students>
     </Hour>
@@ -1135,7 +1135,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1161,7 +1161,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="中六"></Students>
     </Hour>
@@ -1189,7 +1189,7 @@
    </Day>
   </Teacher>
   <Teacher name="林心瑜">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -1215,7 +1215,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -1241,7 +1241,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -1267,7 +1267,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1293,7 +1293,7 @@
      <Subject name="數學"></Subject><Students name="一乙"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -1321,7 +1321,7 @@
    </Day>
   </Teacher>
   <Teacher name="謝美娟">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -1347,7 +1347,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -1373,7 +1373,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -1399,7 +1399,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1425,7 +1425,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -1453,7 +1453,7 @@
    </Day>
   </Teacher>
   <Teacher name="陳淑貞">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="自然"></Subject><Students name="一甲"></Students>
     </Hour>
@@ -1479,7 +1479,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -1505,7 +1505,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="自然"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -1531,7 +1531,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1557,7 +1557,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -1585,7 +1585,7 @@
    </Day>
   </Teacher>
   <Teacher name="陳惠玲">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -1611,7 +1611,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -1637,7 +1637,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -1663,7 +1663,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1689,7 +1689,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -1717,7 +1717,7 @@
    </Day>
   </Teacher>
   <Teacher name="謝銘昇">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -1743,7 +1743,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -1769,7 +1769,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -1795,7 +1795,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1821,7 +1821,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -1849,7 +1849,7 @@
    </Day>
   </Teacher>
   <Teacher name="黃聖珆">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -1875,7 +1875,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -1901,7 +1901,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -1927,7 +1927,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -1953,7 +1953,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -1981,7 +1981,7 @@
    </Day>
   </Teacher>
   <Teacher name="董蘭英">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -2007,7 +2007,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="雅美語"></Subject><Students name="中六"></Students>
     </Hour>
@@ -2033,7 +2033,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -2059,7 +2059,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -2085,7 +2085,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -2113,7 +2113,7 @@
    </Day>
   </Teacher>
   <Teacher name="黃沛綺">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -2139,7 +2139,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -2165,7 +2165,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -2191,7 +2191,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -2217,7 +2217,7 @@
      <Subject name="英語"></Subject><Students name="一甲"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -2245,7 +2245,7 @@
    </Day>
   </Teacher>
   <Teacher name="林亦珺">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -2271,7 +2271,7 @@
      <Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -2297,7 +2297,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -2323,7 +2323,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="觀光餐旅業導論"></Subject><Students name="中五"></Students>
     </Hour>
@@ -2349,7 +2349,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="觀光餐旅業導論"></Subject><Students name="中五"></Students>
     </Hour>
@@ -2377,7 +2377,7 @@
    </Day>
   </Teacher>
   <Teacher name="廖嶼寧">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -2403,7 +2403,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -2429,7 +2429,7 @@
      <Subject name="國三TAO美學"></Subject><Students name="三甲"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -2455,7 +2455,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -2481,7 +2481,7 @@
      <Subject name="國二TAO探索"></Subject><Students name="二乙"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -2509,7 +2509,7 @@
    </Day>
   </Teacher>
   <Teacher name="劉峰福">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -2535,7 +2535,7 @@
      <Subject name="英語"></Subject><Students name="三乙"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="英語"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -2561,7 +2561,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -2587,7 +2587,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="英語"></Subject><Students name="三乙"></Students>
     </Hour>
@@ -2613,7 +2613,7 @@
      <Subject name="英語"></Subject><Students name="一甲"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -2641,7 +2641,7 @@
    </Day>
   </Teacher>
   <Teacher name="許書齊">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="中五"></Students>
     </Hour>
@@ -2667,7 +2667,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -2693,7 +2693,7 @@
      <Subject name="高二TAO人文"></Subject><Students name="中五"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="班會"></Subject><Students name="中五"></Students>
     </Hour>
@@ -2719,7 +2719,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -2745,7 +2745,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -2773,7 +2773,7 @@
    </Day>
   </Teacher>
   <Teacher name="劉康文">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="自然"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -2799,7 +2799,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -2825,7 +2825,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -2851,7 +2851,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="自然"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -2877,7 +2877,7 @@
      <Subject name="自然"></Subject><Students name="三乙"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -2905,7 +2905,7 @@
    </Day>
   </Teacher>
   <Teacher name="鐘楚紅">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -2931,7 +2931,7 @@
      <Subject name="地理"></Subject><Students name="三甲"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -2957,7 +2957,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -2983,7 +2983,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -3009,7 +3009,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -3037,7 +3037,7 @@
    </Day>
   </Teacher>
   <Teacher name="紀佳安">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="英語"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -3063,7 +3063,7 @@
      <Subject name="國一TAO美學"></Subject><Students name="一甲"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -3089,7 +3089,7 @@
      <Subject name="國三TAO美學"></Subject><Students name="三乙"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -3115,7 +3115,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -3141,7 +3141,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="英語"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -3169,7 +3169,7 @@
    </Day>
   </Teacher>
   <Teacher name="黃蘭新">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -3195,7 +3195,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="地理"></Subject><Students name="二甲"></Students>
     </Hour>
@@ -3221,7 +3221,7 @@
      <Subject name="地理"></Subject><Students name="二乙"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="二甲"></Students>
     </Hour>
@@ -3247,7 +3247,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="地理"></Subject><Students name="一甲"></Students>
     </Hour>
@@ -3273,7 +3273,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="二甲"></Students>
     </Hour>
@@ -3301,7 +3301,7 @@
    </Day>
   </Teacher>
   <Teacher name="潘俞君">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="中五"></Students>
     </Hour>
@@ -3327,7 +3327,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -3353,7 +3353,7 @@
      <Subject name="高二TAO人文"></Subject><Students name="中五"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -3379,7 +3379,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -3405,7 +3405,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -3433,7 +3433,7 @@
    </Day>
   </Teacher>
   <Teacher name="張智凱">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -3459,7 +3459,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -3485,7 +3485,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="三甲"></Students>
     </Hour>
@@ -3511,7 +3511,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="數學"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -3537,7 +3537,7 @@
      <Subject name="數學"></Subject><Students name="一乙"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -3565,7 +3565,7 @@
    </Day>
   </Teacher>
   <Teacher name="林子綺">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      <Subject name="英語"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -3591,7 +3591,7 @@
      <Subject name="國二自主學習"></Subject><Students name="二甲"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -3617,7 +3617,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -3643,7 +3643,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="餐旅英文"></Subject><Students name="中六"></Students>
     </Hour>
@@ -3669,7 +3669,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="英語"></Subject><Students name="二乙"></Students>
     </Hour>
@@ -3697,7 +3697,7 @@
    </Day>
   </Teacher>
   <Teacher name="張凱堯">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -3723,7 +3723,7 @@
      <Subject name="國二自主學習"></Subject><Students name="二乙"></Students>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -3749,7 +3749,7 @@
      <Subject name="國一自主學習"></Subject><Students name="一乙"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -3775,7 +3775,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      <Subject name="生活科技"></Subject><Students name="二甲"></Students>
     </Hour>
@@ -3801,7 +3801,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      <Subject name="生活科技"></Subject><Students name="一乙"></Students>
     </Hour>
@@ -3829,7 +3829,7 @@
    </Day>
   </Teacher>
   <Teacher name="蔡幸儒">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -3855,7 +3855,7 @@
      <Subject name="中餐烹飪"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      <Subject name="中餐烹飪"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
     </Hour>
@@ -3881,7 +3881,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="班會"></Subject><Students name="中四"></Students>
     </Hour>
@@ -3907,7 +3907,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -3933,7 +3933,7 @@
      <Subject name="高一TAO美學"></Subject><Students name="中四"></Students>
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -3961,7 +3961,7 @@
    </Day>
   </Teacher>
   <Teacher name="張幗英">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -3987,7 +3987,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -4013,7 +4013,7 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      <Subject name="國文"></Subject><Students name="三乙"></Students>
     </Hour>
@@ -4039,7 +4039,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -4065,7 +4065,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
@@ -4093,7 +4093,7 @@
    </Day>
   </Teacher>
   <Teacher name="廖思涵">
-   <Day name="Monday">
+   <Day name="星期一">
     <Hour name="08:00">
      
     </Hour>
@@ -4119,7 +4119,7 @@
      
     </Hour>
    </Day>
-   <Day name="Tuesday">
+   <Day name="星期二">
     <Hour name="08:00">
      
     </Hour>
@@ -4145,7 +4145,7 @@
      <Subject name="護理"></Subject><Students name="中四"></Students>
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="星期三">
     <Hour name="08:00">
      
     </Hour>
@@ -4171,7 +4171,7 @@
      
     </Hour>
    </Day>
-   <Day name="Thursday">
+   <Day name="星期四">
     <Hour name="08:00">
      
     </Hour>
@@ -4197,7 +4197,7 @@
      
     </Hour>
    </Day>
-   <Day name="Friday">
+   <Day name="星期五">
     <Hour name="08:00">
      
     </Hour>
