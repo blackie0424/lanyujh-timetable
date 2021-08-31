@@ -1,0 +1,629 @@
+﻿@charset "UTF-8";
+
+/* CSS Stylesheet of lanyujh-110.fet
+   Stylesheet generated with FET 6.1.3 on 8/31/21 2:48 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display: none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject 數學 */
+
+}
+
+span.s_2 { /* subject 資訊科技 */
+
+}
+
+span.s_3 { /* subject 國文 */
+
+}
+
+span.s_4 { /* subject 應用文 */
+
+}
+
+span.s_5 { /* subject 英語 */
+
+}
+
+span.s_6 { /* subject 餐旅英文 */
+
+}
+
+span.s_7 { /* subject 自然 */
+
+}
+
+span.s_8 { /* subject 生活科技 */
+
+}
+
+span.s_9 { /* subject 地理 */
+
+}
+
+span.s_10 { /* subject 歷史 */
+
+}
+
+span.s_11 { /* subject 公民 */
+
+}
+
+span.s_12 { /* subject 健體（健） */
+
+}
+
+span.s_13 { /* subject 健體（體） */
+
+}
+
+span.s_14 { /* subject 藝文（藝） */
+
+}
+
+span.s_15 { /* subject 自主學習 */
+
+}
+
+span.s_16 { /* subject TAO人文 */
+
+}
+
+span.s_17 { /* subject TAO美學 */
+
+}
+
+span.s_18 { /* subject TAO探索 */
+
+}
+
+span.s_19 { /* subject 綜合（綜） */
+
+}
+
+span.s_20 { /* subject 雅美語 */
+
+}
+
+span.s_21 { /* subject 生涯規劃 */
+
+}
+
+span.s_22 { /* subject 生物 */
+
+}
+
+span.s_23 { /* subject 全民國防 */
+
+}
+
+span.s_24 { /* subject 護理 */
+
+}
+
+span.s_25 { /* subject 雅美文化概論 */
+
+}
+
+span.s_26 { /* subject 國際禮儀 */
+
+}
+
+span.s_27 { /* subject 餐飲服務技術 */
+
+}
+
+span.s_28 { /* subject 觀光餐旅業導論 */
+
+}
+
+span.s_29 { /* subject 飲料實務 */
+
+}
+
+span.s_30 { /* subject 點心製作 */
+
+}
+
+span.s_31 { /* subject 中餐烹飪 */
+
+}
+
+span.s_32 { /* subject 專題製作 */
+
+}
+
+span.s_33 { /* subject 生命教育 */
+
+}
+
+span.s_34 { /* subject 觀光概論 */
+
+}
+
+span.s_35 { /* subject 蘭嶼自然生態 */
+
+}
+
+span.s_36 { /* subject 烘焙 */
+
+}
+
+span.s_37 { /* subject 西餐 */
+
+}
+
+span.s_38 { /* subject 旅館房務實習 */
+
+}
+
+span.s_39 { /* subject 綜合 */
+
+}
+
+span.s_40 { /* subject 飲食文化 */
+
+}
+
+span.s_41 { /* subject 雅美創客 */
+
+}
+
+span.s_42 { /* subject 遊程規劃 */
+
+}
+
+span.s_43 { /* subject 彈性 */
+
+}
+
+span.s_44 { /* subject 班會 */
+
+}
+
+span.s_45 { /* subject 異國料理 */
+
+}
+
+span.s_46 { /* subject 旅館客務實務 */
+
+}
+
+span.ss_2 { /* students set 一甲 */
+
+}
+
+span.ss_4 { /* students set 一乙 */
+
+}
+
+span.ss_7 { /* students set 二甲 */
+
+}
+
+span.ss_9 { /* students set 二乙 */
+
+}
+
+span.ss_12 { /* students set 三甲 */
+
+}
+
+span.ss_14 { /* students set 三乙 */
+
+}
+
+span.ss_17 { /* students set 中四 */
+
+}
+
+span.ss_20 { /* students set 中五 */
+
+}
+
+span.ss_23 { /* students set 中六 */
+
+}
+
+span.t_1 { /* teacher 吳崇岳 */
+
+}
+
+span.t_2 { /* teacher 劉俞伶 */
+
+}
+
+span.t_3 { /* teacher 曾如 */
+
+}
+
+span.t_4 { /* teacher 司秀梅 */
+
+}
+
+span.t_5 { /* teacher 劉銘婠 */
+
+}
+
+span.t_6 { /* teacher 林桓妃 */
+
+}
+
+span.t_7 { /* teacher 楊惠閔 */
+
+}
+
+span.t_8 { /* teacher 江彩怡 */
+
+}
+
+span.t_9 { /* teacher 謝美娟 */
+
+}
+
+span.t_10 { /* teacher 陳淑貞 */
+
+}
+
+span.t_11 { /* teacher 陳惠玲 */
+
+}
+
+span.t_12 { /* teacher 謝銘昇 */
+
+}
+
+span.t_13 { /* teacher 黃聖珆 */
+
+}
+
+span.t_14 { /* teacher 董蘭英 */
+
+}
+
+span.t_15 { /* teacher 黃沛綺 */
+
+}
+
+span.t_16 { /* teacher 劉康文 */
+
+}
+
+span.t_17 { /* teacher 鐘楚紅 */
+
+}
+
+span.t_18 { /* teacher 紀佳安 */
+
+}
+
+span.t_19 { /* teacher 黃蘭新 */
+
+}
+
+span.t_20 { /* teacher 林子綺 */
+
+}
+
+span.t_21 { /* teacher 張幗英 */
+
+}
+
+span.t_22 { /* teacher 廖思涵 */
+
+}
+
+span.t_23 { /* teacher 鄧亦婷 */
+
+}
+
+span.t_24 { /* teacher 張健宏 */
+
+}
+
+span.t_25 { /* teacher 李妍欣 */
+
+}
+
+span.t_26 { /* teacher 陳姿廷 */
+
+}
+
+span.t_27 { /* teacher 宋可人 */
+
+}
+
+span.t_28 { /* teacher 翁榮陽 */
+
+}
+
+span.t_29 { /* teacher 特教代理 */
+
+}
+
+span.t_30 { /* teacher 綜合代理 */
+
+}
+
+span.t_31 { /* teacher 餐飲代理 */
+
+}
+
+span.t_32 { /* teacher 王恩竹 */
+
+}
+
+span.r_1 { /* room 一甲 */
+
+}
+
+span.r_2 { /* room 一乙 */
+
+}
+
+span.r_3 { /* room 二甲 */
+
+}
+
+span.r_4 { /* room 二乙 */
+
+}
+
+span.r_5 { /* room 三甲 */
+
+}
+
+span.r_6 { /* room 三乙 */
+
+}
+
+span.r_7 { /* room 中四 */
+
+}
+
+span.r_8 { /* room 中五 */
+
+}
+
+span.r_9 { /* room 中六 */
+
+}
+
+span.r_10 { /* room 圖書館 */
+
+}
+
+span.r_11 { /* room 飲調教室 */
+
+}
+
+span.r_12 { /* room 烘焙教室 */
+
+}
+
+span.r_13 { /* room 中餐教室 */
+
+}
+
+span.r_14 { /* room 餐服教室 */
+
+}
+
+span.r_15 { /* room 藝文教室 */
+
+}
+
+span.r_16 { /* room 電腦教室 */
+
+}
+
+span.r_17 { /* room 自然實驗室 */
+
+}
+
+span.r_18 { /* room 室內運動場 */
+
+}
+
+span.r_19 { /* room 國際禮儀教室 */
+
+}
+
+span.r_20 { /* room 生活科技教室 */
+
+}
+
+span.r_21 { /* room 自主學習教室 */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */
