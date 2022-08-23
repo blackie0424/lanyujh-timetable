@@ -1,0 +1,1191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="一甲 Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="41"></Activity><Teacher name="謝心平"></Teacher><Teacher name="董家雯"></Teacher><Teacher name="董蘭英"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="41"></Activity><Teacher name="謝心平"></Teacher><Teacher name="董家雯"></Teacher><Teacher name="董蘭英"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="41"></Activity><Teacher name="謝心平"></Teacher><Teacher name="董家雯"></Teacher><Teacher name="董蘭英"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="40"></Activity><Teacher name="林家宜"></Teacher><Teacher name="生科代理"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="40"></Activity><Teacher name="林家宜"></Teacher><Teacher name="生科代理"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="40"></Activity><Teacher name="林家宜"></Teacher><Teacher name="生科代理"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="42"></Activity><Teacher name="陳惠玲"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="42"></Activity><Teacher name="陳惠玲"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="42"></Activity><Teacher name="陳惠玲"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="43"></Activity><Teacher name="謝心平"></Teacher><Teacher name="林家宜"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="吳崇岳"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="43"></Activity><Teacher name="謝心平"></Teacher><Teacher name="林家宜"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="吳崇岳"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="43"></Activity><Teacher name="謝心平"></Teacher><Teacher name="林家宜"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="吳崇岳"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="一乙 Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="41"></Activity><Teacher name="謝心平"></Teacher><Teacher name="董家雯"></Teacher><Teacher name="董蘭英"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="41"></Activity><Teacher name="謝心平"></Teacher><Teacher name="董家雯"></Teacher><Teacher name="董蘭英"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="41"></Activity><Teacher name="謝心平"></Teacher><Teacher name="董家雯"></Teacher><Teacher name="董蘭英"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="40"></Activity><Teacher name="林家宜"></Teacher><Teacher name="生科代理"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="40"></Activity><Teacher name="林家宜"></Teacher><Teacher name="生科代理"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="40"></Activity><Teacher name="林家宜"></Teacher><Teacher name="生科代理"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="42"></Activity><Teacher name="陳惠玲"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="42"></Activity><Teacher name="陳惠玲"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="42"></Activity><Teacher name="陳惠玲"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="43"></Activity><Teacher name="謝心平"></Teacher><Teacher name="林家宜"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="吳崇岳"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="43"></Activity><Teacher name="謝心平"></Teacher><Teacher name="林家宜"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="吳崇岳"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="43"></Activity><Teacher name="謝心平"></Teacher><Teacher name="林家宜"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="吳崇岳"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="二甲 Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="82"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="張健宏"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="82"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="張健宏"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="82"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="張健宏"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="83"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="生科代理"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="83"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="生科代理"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="83"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="生科代理"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="81"></Activity><Teacher name="曾如"></Teacher><Teacher name="董蘭英"></Teacher><Teacher name="謝心平"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="81"></Activity><Teacher name="曾如"></Teacher><Teacher name="董蘭英"></Teacher><Teacher name="謝心平"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="81"></Activity><Teacher name="曾如"></Teacher><Teacher name="董蘭英"></Teacher><Teacher name="謝心平"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="80"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="80"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="80"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="二乙 Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="82"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="張健宏"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="82"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="張健宏"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="82"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="張健宏"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="83"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="生科代理"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="83"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="生科代理"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="83"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳禹昕"></Teacher><Teacher name="生科代理"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="81"></Activity><Teacher name="曾如"></Teacher><Teacher name="董蘭英"></Teacher><Teacher name="謝心平"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="81"></Activity><Teacher name="曾如"></Teacher><Teacher name="董蘭英"></Teacher><Teacher name="謝心平"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="81"></Activity><Teacher name="曾如"></Teacher><Teacher name="董蘭英"></Teacher><Teacher name="謝心平"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="80"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="80"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="80"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="三甲 Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="121"></Activity><Teacher name="董蘭英"></Teacher><Teacher name="曾如"></Teacher><Teacher name="張文慧"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="121"></Activity><Teacher name="董蘭英"></Teacher><Teacher name="曾如"></Teacher><Teacher name="張文慧"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="121"></Activity><Teacher name="董蘭英"></Teacher><Teacher name="曾如"></Teacher><Teacher name="張文慧"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="122"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="生科代理"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="122"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="生科代理"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="122"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="生科代理"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="123"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳淑貞"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="董家雯"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="123"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳淑貞"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="董家雯"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="123"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳淑貞"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="董家雯"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="120"></Activity><Teacher name="林家宜"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="120"></Activity><Teacher name="林家宜"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="120"></Activity><Teacher name="林家宜"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="三乙 Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="121"></Activity><Teacher name="董蘭英"></Teacher><Teacher name="曾如"></Teacher><Teacher name="張文慧"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="121"></Activity><Teacher name="董蘭英"></Teacher><Teacher name="曾如"></Teacher><Teacher name="張文慧"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="121"></Activity><Teacher name="董蘭英"></Teacher><Teacher name="曾如"></Teacher><Teacher name="張文慧"></Teacher><Subject name="達悟人文"></Subject><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="122"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="生科代理"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="122"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="生科代理"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="122"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="生科代理"></Teacher><Teacher name="理化代理"></Teacher><Subject name="達悟探索"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="123"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳淑貞"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="董家雯"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="123"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳淑貞"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="董家雯"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="123"></Activity><Teacher name="吳崇岳"></Teacher><Teacher name="陳淑貞"></Teacher><Teacher name="胡馨文"></Teacher><Teacher name="董家雯"></Teacher><Subject name="自主學習"></Subject><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="120"></Activity><Teacher name="林家宜"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="120"></Activity><Teacher name="林家宜"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="120"></Activity><Teacher name="林家宜"></Teacher><Teacher name="董家雯"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="中四 Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="124"></Activity><Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="153"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="153"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="153"></Activity><Teacher name="董家雯"></Teacher><Teacher name="林家宜"></Teacher><Subject name="達悟美學"></Subject><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="134"></Activity><Teacher name="陳曉蒨"></Teacher><Subject name="班會"></Subject>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="125"></Activity><Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="126"></Activity><Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="126"></Activity><Teacher name="吳崇岳"></Teacher><Subject name="數學"></Subject>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="中五 Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="142"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="點心製作"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="142"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="點心製作"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="140"></Activity><Teacher name="范家榮"></Teacher><Subject name="中餐烹調實習"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="140"></Activity><Teacher name="范家榮"></Teacher><Subject name="中餐烹調實習"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="140"></Activity><Teacher name="范家榮"></Teacher><Subject name="中餐烹調實習"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="140"></Activity><Teacher name="范家榮"></Teacher><Subject name="中餐烹調實習"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="132"></Activity><Teacher name="鄧亦婷"></Teacher><Subject name="班會"></Subject>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="143"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="飲食文化"></Subject>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="143"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="飲食文化"></Subject>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="141"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="點心製作"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="中六 Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="133"></Activity><Teacher name="李宜芳"></Teacher><Subject name="班會"></Subject>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="139"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="烘焙"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="139"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="烘焙"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="139"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="烘焙"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="139"></Activity><Teacher name="楊惠閔"></Teacher><Subject name="烘焙"></Subject><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="138"></Activity><Teacher name="林桓妃"></Teacher><Subject name="西餐"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="138"></Activity><Teacher name="林桓妃"></Teacher><Subject name="西餐"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="138"></Activity><Teacher name="林桓妃"></Teacher><Subject name="西餐"></Subject><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
