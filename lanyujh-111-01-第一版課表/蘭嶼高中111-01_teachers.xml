@@ -1,0 +1,4227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="吳崇岳">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="154"></Activity><Subject name="高中自主"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="154"></Activity><Subject name="高中自主"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="124"></Activity><Subject name="數學"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="125"></Activity><Subject name="數學"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="126"></Activity><Subject name="數學"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="126"></Activity><Subject name="數學"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="謝美娟">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="89"></Activity><Subject name="國語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="45"></Activity><Subject name="國語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="44"></Activity><Subject name="國語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="88"></Activity><Subject name="國語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="47"></Activity><Subject name="國語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="47"></Activity><Subject name="國語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="90"></Activity><Subject name="國語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="46"></Activity><Subject name="國語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="91"></Activity><Subject name="國語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="91"></Activity><Subject name="國語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="李宜芳">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="135"></Activity><Subject name="國語文"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="84"></Activity><Subject name="國語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="182"></Activity><Subject name="高中自主"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="182"></Activity><Subject name="高中自主"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="182"></Activity><Subject name="高中自主"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="137"></Activity><Subject name="國語文"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="85"></Activity><Subject name="國語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="133"></Activity><Subject name="班會"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="86"></Activity><Subject name="國語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="87"></Activity><Subject name="國語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="87"></Activity><Subject name="國語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="136"></Activity><Subject name="國語文"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="鄧亦婷">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="163"></Activity><Subject name="國語文"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="48"></Activity><Subject name="國語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="165"></Activity><Subject name="國語文"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="132"></Activity><Subject name="班會"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="49"></Activity><Subject name="國語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="162"></Activity><Subject name="國語文"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="50"></Activity><Subject name="國語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="164"></Activity><Subject name="國語文"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="51"></Activity><Subject name="國語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="51"></Activity><Subject name="國語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="潘金龍">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="99"></Activity><Subject name="數學"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="60"></Activity><Subject name="數學"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="100"></Activity><Subject name="數學"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="102"></Activity><Subject name="數學"></Subject><Students name="三乙"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="105"></Activity><Subject name="數學"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="59"></Activity><Subject name="數學"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="58"></Activity><Subject name="數學"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="98"></Activity><Subject name="數學"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="104"></Activity><Subject name="數學"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="103"></Activity><Subject name="數學"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="61"></Activity><Subject name="數學"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="101"></Activity><Subject name="數學"></Subject><Students name="三甲"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="理化代理">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="68"></Activity><Subject name="自然"></Subject><Students name="二乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="67"></Activity><Subject name="自然"></Subject><Students name="二甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="67"></Activity><Subject name="自然"></Subject><Students name="二甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="151"></Activity><Subject name="生物"></Subject><Students name="中四"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="69"></Activity><Subject name="自然"></Subject><Students name="二乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="69"></Activity><Subject name="自然"></Subject><Students name="二乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="108"></Activity><Subject name="自然"></Subject><Students name="三乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="150"></Activity><Subject name="生物"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="109"></Activity><Subject name="自然"></Subject><Students name="三乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="109"></Activity><Subject name="自然"></Subject><Students name="三乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="66"></Activity><Subject name="自然"></Subject><Students name="二甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="曾如">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="胡馨文">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="94"></Activity><Subject name="英語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="12"></Activity><Subject name="英語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="10"></Activity><Subject name="英語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="11"></Activity><Subject name="英語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="13"></Activity><Subject name="英語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="92"></Activity><Subject name="英語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="9"></Activity><Subject name="英語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="93"></Activity><Subject name="英語文"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="14"></Activity><Subject name="英語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳淑貞">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="144"></Activity><Subject name="高中探索"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="144"></Activity><Subject name="高中探索"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="29"></Activity><Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="29"></Activity><Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="27"></Activity><Subject name="自然"></Subject><Students name="一乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="27"></Activity><Subject name="自然"></Subject><Students name="一乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="28"></Activity><Subject name="自然"></Subject><Students name="一甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="26"></Activity><Subject name="自然"></Subject><Students name="一乙"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="107"></Activity><Subject name="自然"></Subject><Students name="三甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="107"></Activity><Subject name="自然"></Subject><Students name="三甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="106"></Activity><Subject name="自然"></Subject><Students name="三甲"></Students><Room name="自然實驗室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="劉銘婠">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="116"></Activity><Subject name="公民與社會"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="36"></Activity><Subject name="公民與社會"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="35"></Activity><Subject name="歷史"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="115"></Activity><Subject name="歷史"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="114"></Activity><Subject name="歷史"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="74"></Activity><Subject name="歷史"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="77"></Activity><Subject name="公民與社會"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="34"></Activity><Subject name="歷史"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="75"></Activity><Subject name="歷史"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="76"></Activity><Subject name="公民與社會"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="117"></Activity><Subject name="公民與社會"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="37"></Activity><Subject name="公民與社會"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="謝心平">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="112"></Activity><Subject name="地理"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="113"></Activity><Subject name="地理"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="73"></Activity><Subject name="地理"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="33"></Activity><Subject name="地理"></Subject><Students name="一乙"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="156"></Activity><Subject name="高中人文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="156"></Activity><Subject name="高中人文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="156"></Activity><Subject name="高中人文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="158"></Activity><Subject name="歷史"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="72"></Activity><Subject name="地理"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="32"></Activity><Subject name="地理"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="王恩竹">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="57"></Activity><Subject name="英語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="52"></Activity><Subject name="英語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="182"></Activity><Subject name="高中自主"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="182"></Activity><Subject name="高中自主"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="182"></Activity><Subject name="高中自主"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="55"></Activity><Subject name="英語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="53"></Activity><Subject name="英語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="54"></Activity><Subject name="英語文"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="56"></Activity><Subject name="英語文"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳惠玲">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="39"></Activity><Subject name="體育"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="38"></Activity><Subject name="體育"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="149"></Activity><Subject name="體育"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="155"></Activity><Subject name="高中探索"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="155"></Activity><Subject name="高中探索"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="155"></Activity><Subject name="高中探索"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="林家宜">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="80"></Activity><Subject name="達悟美學"></Subject><Students name="國二"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="80"></Activity><Subject name="達悟美學"></Subject><Students name="國二"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="80"></Activity><Subject name="達悟美學"></Subject><Students name="國二"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="157"></Activity><Subject name="高中美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="157"></Activity><Subject name="高中美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="157"></Activity><Subject name="高中美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="120"></Activity><Subject name="達悟美學"></Subject><Students name="國三"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="120"></Activity><Subject name="達悟美學"></Subject><Students name="國三"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="120"></Activity><Subject name="達悟美學"></Subject><Students name="國三"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="43"></Activity><Subject name="自主學習"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="40"></Activity><Subject name="達悟美學"></Subject><Students name="國一"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="40"></Activity><Subject name="達悟美學"></Subject><Students name="國一"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="40"></Activity><Subject name="達悟美學"></Subject><Students name="國一"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="153"></Activity><Subject name="達悟美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="153"></Activity><Subject name="達悟美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="153"></Activity><Subject name="達悟美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="生科代理">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="154"></Activity><Subject name="高中自主"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="154"></Activity><Subject name="高中自主"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="70"></Activity><Subject name="生活科技"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="122"></Activity><Subject name="達悟探索"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="110"></Activity><Subject name="生活科技"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="30"></Activity><Subject name="生活科技"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="31"></Activity><Subject name="生活科技"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="40"></Activity><Subject name="達悟美學"></Subject><Students name="國一"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="40"></Activity><Subject name="達悟美學"></Subject><Students name="國一"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="40"></Activity><Subject name="達悟美學"></Subject><Students name="國一"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="71"></Activity><Subject name="生活科技"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="111"></Activity><Subject name="生活科技"></Subject><Students name="三乙"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="邱靖軒">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="王之筠">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="黃沛綺">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="黃聖珆">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="董家雯">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="80"></Activity><Subject name="達悟美學"></Subject><Students name="國二"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="80"></Activity><Subject name="達悟美學"></Subject><Students name="國二"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="80"></Activity><Subject name="達悟美學"></Subject><Students name="國二"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="157"></Activity><Subject name="高中美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="157"></Activity><Subject name="高中美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="157"></Activity><Subject name="高中美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="120"></Activity><Subject name="達悟美學"></Subject><Students name="國三"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="120"></Activity><Subject name="達悟美學"></Subject><Students name="國三"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="120"></Activity><Subject name="達悟美學"></Subject><Students name="國三"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="123"></Activity><Subject name="自主學習"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="155"></Activity><Subject name="高中探索"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="155"></Activity><Subject name="高中探索"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="155"></Activity><Subject name="高中探索"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="153"></Activity><Subject name="達悟美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="153"></Activity><Subject name="達悟美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="153"></Activity><Subject name="達悟美學"></Subject><Students name="中四"></Students><Room name="藝文教室"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="張健宏">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="79"></Activity><Subject name="體育"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="119"></Activity><Subject name="體育"></Subject><Students name="三乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="78"></Activity><Subject name="體育"></Subject><Students name="二甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="82"></Activity><Subject name="達悟探索"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="166"></Activity><Subject name="體育"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="180"></Activity><Subject name="體育"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="118"></Activity><Subject name="體育"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="張文慧">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="97"></Activity><Subject name="英語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="130"></Activity><Subject name="英語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="96"></Activity><Subject name="英語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="129"></Activity><Subject name="英語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="127"></Activity><Subject name="英語文"></Subject><Students name="中四"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="128"></Activity><Subject name="英語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="95"></Activity><Subject name="英語文"></Subject><Students name="三甲"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳禹昕">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="42"></Activity><Subject name="達悟探索"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="18"></Activity><Subject name="數學"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="20"></Activity><Subject name="數學"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="63"></Activity><Subject name="數學"></Subject><Students name="二乙"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="22"></Activity><Subject name="數學"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="83"></Activity><Subject name="自主學習"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="64"></Activity><Subject name="數學"></Subject><Students name="二乙"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="19"></Activity><Subject name="數學"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="16"></Activity><Subject name="數學"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="65"></Activity><Subject name="數學"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="15"></Activity><Subject name="數學"></Subject><Students name="一甲"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="21"></Activity><Subject name="數學"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="62"></Activity><Subject name="數學"></Subject><Students name="二乙"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="17"></Activity><Subject name="數學"></Subject><Students name="一甲"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="林桓妃">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="172"></Activity><Subject name="餐飲服務技術"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="172"></Activity><Subject name="餐飲服務技術"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="169"></Activity><Subject name="高中自主"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="169"></Activity><Subject name="高中自主"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="171"></Activity><Subject name="飲料實務"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="171"></Activity><Subject name="飲料實務"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="181"></Activity><Subject name="高中美學"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="181"></Activity><Subject name="高中美學"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="181"></Activity><Subject name="高中美學"></Subject><Students name="中六"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="138"></Activity><Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="138"></Activity><Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="138"></Activity><Subject name="西餐"></Subject><Students name="中六"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="170"></Activity><Subject name="高中美學"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="170"></Activity><Subject name="高中美學"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="170"></Activity><Subject name="高中美學"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="楊惠閔">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="174"></Activity><Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="174"></Activity><Subject name="點心製作"></Subject><Students name="中五"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="169"></Activity><Subject name="高中自主"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="169"></Activity><Subject name="高中自主"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="139"></Activity><Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="139"></Activity><Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="139"></Activity><Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="139"></Activity><Subject name="烘焙"></Subject><Students name="中六"></Students><Room name="烘焙教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="175"></Activity><Subject name="飲食文化"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="183"></Activity><Subject name="旅館客務實務"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="范家榮">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="144"></Activity><Subject name="高中探索"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="144"></Activity><Subject name="高中探索"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     <Activity id="140"></Activity><Subject name="中餐烹調實習"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="140"></Activity><Subject name="中餐烹調實習"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="140"></Activity><Subject name="中餐烹調實習"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="140"></Activity><Subject name="中餐烹調實習"></Subject><Students name="中五"></Students><Room name="中餐教室"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="185"></Activity><Subject name="觀光概論"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="173"></Activity><Subject name="觀光餐旅業導論"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="173"></Activity><Subject name="觀光餐旅業導論"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="陳曉蒨">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="145"></Activity><Subject name="國語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="5"></Activity><Subject name="國語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="147"></Activity><Subject name="國語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     <Activity id="134"></Activity><Subject name="班會"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="7"></Activity><Subject name="國語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="148"></Activity><Subject name="國語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="8"></Activity><Subject name="國語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="8"></Activity><Subject name="國語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="146"></Activity><Subject name="國語文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="6"></Activity><Subject name="國語文"></Subject><Students name="一乙"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="司秀梅">
+   <Day name="Monday">
+    <Hour name="08:00">
+     <Activity id="161"></Activity><Subject name="觀光餐飲英語會話"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="178"></Activity><Subject name="觀光餐飲英語會話"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="168"></Activity><Subject name="高中探索"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="179"></Activity><Subject name="觀光餐飲英語會話"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="176"></Activity><Subject name="英語文"></Subject><Students name="中六"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="177"></Activity><Subject name="英語文"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     <Activity id="160"></Activity><Subject name="觀光餐飲英語會話"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="170"></Activity><Subject name="高中美學"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="170"></Activity><Subject name="高中美學"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="170"></Activity><Subject name="高中美學"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="高中專輔">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="186"></Activity><Subject name="生命教育"></Subject><Students name="中六"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="彩怡的代理">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="2"></Activity><Subject name="國語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="1"></Activity><Subject name="國語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="3"></Activity><Subject name="國語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="4"></Activity><Subject name="國語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="4"></Activity><Subject name="國語文"></Subject><Students name="一甲"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="董蘭英">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="184"></Activity><Subject name="高中人文"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="184"></Activity><Subject name="高中人文"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="184"></Activity><Subject name="高中人文"></Subject><Students name="中六"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="156"></Activity><Subject name="高中人文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="156"></Activity><Subject name="高中人文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="156"></Activity><Subject name="高中人文"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="187"></Activity><Subject name="雅美語"></Subject><Students name="中六"></Students>
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="121"></Activity><Subject name="達悟人文"></Subject><Students name="國三"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="167"></Activity><Subject name="高中人文"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="167"></Activity><Subject name="高中人文"></Subject><Students name="中五"></Students>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="167"></Activity><Subject name="高中人文"></Subject><Students name="中五"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Activity id="41"></Activity><Subject name="達悟人文"></Subject><Students name="國一"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="14:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+    <Hour name="15:10">
+     <Activity id="81"></Activity><Subject name="達悟人文"></Subject><Students name="國二"></Students><Room name="圖書館"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="國小校護">
+   <Day name="Monday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     <Activity id="131"></Activity><Subject name="健康與護理"></Subject><Students name="中四"></Students>
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:10">
+     
+    </Hour>
+    <Hour name="14:10">
+     
+    </Hour>
+    <Hour name="15:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
