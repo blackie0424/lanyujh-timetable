@@ -2432,7 +2432,6 @@
 </Activity>
 <Activity>
 	<Teacher>林桓妃</Teacher>
-	<Teacher>林家宜</Teacher>
 	<Subject>高中美學</Subject>
 	<Students>中六</Students>
 	<Duration>3</Duration>
@@ -2455,19 +2454,9 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>楊惠閔</Teacher>
-	<Subject>旅館客務實務</Subject>
-	<Students>中六</Students>
-	<Duration>1</Duration>
-	<Total_Duration>1</Total_Duration>
-	<Id>183</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>董蘭英</Teacher>
 	<Teacher>司秀梅</Teacher>
+	<Teacher>范家榮</Teacher>
 	<Subject>高中人文</Subject>
 	<Students>中六</Students>
 	<Duration>3</Duration>
@@ -2500,8 +2489,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>范家榮</Teacher>
 	<Teacher>陳淑貞</Teacher>
+	<Teacher>張健宏</Teacher>
 	<Subject>高中探索</Subject>
 	<Students>中六</Students>
 	<Duration>3</Duration>
@@ -2540,6 +2529,28 @@
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>191</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>楊惠閔</Teacher>
+	<Subject>旅館客務實務</Subject>
+	<Students>中六</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>192</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>司秀梅</Teacher>
+	<Subject>英語文</Subject>
+	<Students>中六</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>193</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
