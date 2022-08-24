@@ -2081,18 +2081,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>陳淑貞</Teacher>
-	<Teacher>范家榮</Teacher>
-	<Subject>高中探索</Subject>
-	<Students>中六</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>144</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>陳曉蒨</Teacher>
 	<Subject>國語文</Subject>
 	<Students>中四</Students>
@@ -2549,6 +2537,18 @@
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>187</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>范家榮</Teacher>
+	<Teacher>陳淑貞</Teacher>
+	<Subject>高中探索</Subject>
+	<Students>中六</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>188</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
