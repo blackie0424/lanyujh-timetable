@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
 /* CSS Style sheet of 蘭嶼高中111-01.fet
-   Style sheet generated with FET 6.5.7 on 8/25/22 11:35 AM */
+   Style sheet generated with FET 6.5.7 on 8/25/22 12:49 PM */
 
 /* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
 /* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
@@ -425,7 +425,7 @@ span.t_31 { /* teacher 董蘭英 */
 
 }
 
-span.t_32 { /* teacher 國小校護 */
+span.t_32 { /* teacher 吳錦綢 */
 
 }
 
@@ -949,7 +949,7 @@ td.t_31 { /* teacher 董蘭英 */
 
 }
 
-td.t_32 { /* teacher 國小校護 */
+td.t_32 { /* teacher 吳錦綢 */
 
 }
 

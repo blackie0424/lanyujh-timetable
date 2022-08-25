@@ -1,5 +1,5 @@
 ﻿Soft conflicts of 蘭嶼高中111-01.fet
-Generated with FET 6.5.7 on 8/25/22 11:35 AM
+Generated with FET 6.5.7 on 8/25/22 12:49 PM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
