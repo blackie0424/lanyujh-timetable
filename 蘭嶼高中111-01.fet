@@ -1969,6 +1969,7 @@
 </Activity>
 <Activity>
 	<Teacher>吳錦綢</Teacher>
+	<Teacher>理化代理</Teacher>
 	<Subject>健康與護理</Subject>
 	<Students>中四</Students>
 	<Duration>1</Duration>
@@ -2168,8 +2169,8 @@
 </Activity>
 <Activity>
 	<Teacher>陳惠玲</Teacher>
-	<Teacher>董家雯</Teacher>
 	<Teacher>理化代理</Teacher>
+	<Teacher>高中專輔</Teacher>
 	<Subject>高中探索</Subject>
 	<Students>中四</Students>
 	<Duration>3</Duration>
@@ -2317,6 +2318,7 @@
 </Activity>
 <Activity>
 	<Teacher>楊惠閔</Teacher>
+	<Teacher>曾如</Teacher>
 	<Subject>高中自主</Subject>
 	<Students>中五</Students>
 	<Duration>2</Duration>
@@ -2499,7 +2501,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>潘金龍</Teacher>
+	<Teacher>理化代理</Teacher>
 	<Subject>全民國防教育</Subject>
 	<Students>中四</Students>
 	<Duration>1</Duration>
@@ -2521,7 +2523,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>董家雯</Teacher>
+	<Teacher>高中專輔</Teacher>
 	<Subject>生涯規劃</Subject>
 	<Students>中四</Students>
 	<Duration>1</Duration>
@@ -3525,7 +3527,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>155</Activity_Id>
-	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Day>Friday</Preferred_Day>
 	<Preferred_Hour>13:10</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
