@@ -1,11 +1,13 @@
 ﻿Soft conflicts of 蘭嶼高中111-01.fet
-Generated with FET 6.5.7 on 8/26/22 1:05 AM
+Generated with FET 6.5.7 on 8/26/22 3:05 AM
 
-Number of broken soft constraints: 1
-Total soft conflicts: 0.95
+Number of broken soft constraints: 3
+Total soft conflicts: 2.85
 
 Soft conflicts list (in decreasing order):
 
-Time constraint min days between activities broken: activity with id=100 (    1/4 - 潘金龍 - 數學 - 三甲) conflicts with activity with id=98 (1/4 -     潘金龍 - 數學 - 三甲), being 1 days too close, on days Tuesday and Tuesday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Time constraint min days between activities broken: activity with id=18 (    1/4 - 陳禹昕 - 數學 - 一甲) conflicts with activity with id=17 (    1/4 - 陳禹昕 - 數學 - 一甲), being 1 days too close, on days Thursday and Thursday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Time constraint min days between activities broken: activity with id=64 (    1/4 - 陳禹昕 - 數學 - 二乙) conflicts with activity with id=62 (1/4 -     陳禹昕 - 數學 - 二乙), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Time constraint min days between activities broken: activity with id=101 (    1/4 - 潘金龍 - 數學 - 三甲) conflicts with activity with id=100 (    1/4 - 潘金龍 - 數學 - 三甲), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
 
 End of file.
