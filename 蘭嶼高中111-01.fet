@@ -2305,8 +2305,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>張健宏</Teacher>
 	<Teacher>林桓妃</Teacher>
+	<Teacher>理化代理</Teacher>
 	<Subject>高中探索</Subject>
 	<Students>中五</Students>
 	<Duration>3</Duration>
@@ -3535,13 +3535,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintTeacherMaxHoursContinuously>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher_Name>理化代理</Teacher_Name>
-	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherMaxHoursContinuously>
-<ConstraintTeacherMaxHoursContinuously>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>鄧亦婷</Teacher_Name>
 	<Maximum_Hours_Continuously>3</Maximum_Hours_Continuously>
 	<Active>true</Active>
@@ -3698,6 +3691,13 @@
 <ConstraintTeacherMinDaysPerWeek>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher_Name>謝美娟</Teacher_Name>
+	<Minimum_Days_Per_Week>5</Minimum_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMinDaysPerWeek>
+<ConstraintTeacherMinDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>潘金龍</Teacher_Name>
 	<Minimum_Days_Per_Week>5</Minimum_Days_Per_Week>
 	<Active>true</Active>
 	<Comments></Comments>
