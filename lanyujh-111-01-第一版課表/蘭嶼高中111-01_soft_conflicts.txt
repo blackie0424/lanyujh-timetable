@@ -1,14 +1,11 @@
 ﻿Soft conflicts of 蘭嶼高中111-01.fet
-Generated with FET 6.5.7 on 8/26/22 9:38 AM
+Generated with FET 6.5.7 on 8/26/22 12:58 PM
 
-Number of broken soft constraints: 4
-Total soft conflicts: 3.8
+Number of broken soft constraints: 1
+Total soft conflicts: 0.95
 
 Soft conflicts list (in decreasing order):
 
-Time constraint min days between activities broken: activity with id=17 (    1/4 - 陳禹昕 - 數學 - 一甲) conflicts with activity with id=16 (    1/4 - 陳禹昕 - 數學 - 一甲), being 1 days too close, on days Wednesday and Wednesday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
-Time constraint min days between activities broken: activity with id=64 (    1/4 - 陳禹昕 - 數學 - 二乙) conflicts with activity with id=63 (    1/4 - 陳禹昕 - 數學 - 二乙), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
-Time constraint min days between activities broken: activity with id=101 (    1/4 - 潘金龍 - 數學 - 三甲) conflicts with activity with id=98 (1/4 -     潘金龍 - 數學 - 三甲), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
-Time constraint min days between activities broken: activity with id=130 (    1/4 - 張文慧 - 英語文 - 中四) conflicts with activity with id=128 (    1/4 - 張文慧 - 英語文 - 中四), being 1 days too close, on days Thursday and Thursday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Time constraint min days between activities broken: activity with id=130 (    1/4 - 張文慧 - 英語文 - 中四) conflicts with activity with id=129 (    1/4 - 張文慧 - 英語文 - 中四), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
 
 End of file.
